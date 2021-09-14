@@ -22,7 +22,7 @@ from ml_strategy import MachineLearning
 # Choose your budget and log file locations
 budget = 50000
 logfile = "logs/test.log"
-benchmark_asset = None
+#benchmark_asset = None
 
 # Initialize all our classes
 trader = Trader(logfile=logfile)
@@ -35,7 +35,7 @@ df.index = pd.to_datetime(df.index)
 my_data = dict()
 my_data[asset] = df
 backtesting_start = datetime(2021, 8, 1)
-backtesting_end = datetime(2021, 9, 1)
+backtesting_end = datetime(2021, 8, 3)
 
 ####
 # Select our strategy
