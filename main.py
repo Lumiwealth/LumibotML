@@ -14,7 +14,7 @@ from lumibot.brokers import Alpaca, InteractiveBrokers
 from lumibot.data_sources import PandasData
 from lumibot.tools import indicators
 from lumibot.traders import Trader
-from twilio.rest import Client
+#from twilio.rest import Client
 
 from credentials import AlpacaConfig
 from ml_strategy import MachineLearning
