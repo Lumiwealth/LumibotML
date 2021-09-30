@@ -10,8 +10,9 @@ import pandas as pd
 from credentials import AlpacaConfig
 
 # Put your Alpaca secret keys here:
-APCA_API_KEY_ID = AlpacaConfig.API_KEY
-APCA_API_SECRET_KEY = AlpacaConfig.API_SECRET
+ac = AlpacaConfig()
+APCA_API_KEY_ID = ac.API_KEY
+APCA_API_SECRET_KEY = ac.API_SECRET
 ASSETS_TO_DOWNLOAD = ["SRNE", "GLD"]
 START_DATE = "2021-04-1"
 END_DATE = "2021-10-1"

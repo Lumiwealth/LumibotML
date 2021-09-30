@@ -1,3 +1,4 @@
 lumibot
 ta
 sklearn
+google-cloud-secret-manager==1.0.0

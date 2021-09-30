@@ -1,18 +1,30 @@
+from google.cloud import secretmanager
+import json
+
 class AlpacaConfig:
-    # Put your own Alpaca key here:
-    API_KEY = "PKN2NQZY2PPIV3TC835A"
+    API_KEY = ""
     # Put your own Alpaca secret here:
-    API_SECRET = "fP9LxZKGl7TXCNxnexSG3wPLBBJQ5wjYLzhKKdHG"
+    API_SECRET = ""
     # If you want to go live, you must change this
-    ENDPOINT = "https://paper-api.alpaca.markets"
+    ENDPOINT = ""
+
+    def __init__(self):
+        # secret manager validation
+        #secret_id  = 'Alpaca_Key-Rob'
+        secret_id  = 'alpaca_lumibot'
+        project_id = 'arctic-plate-305019'
+        client  = secretmanager.SecretManagerServiceClient()
+        id_name = client.secret_version_path(project_id, secret_id, "latest")
 
 
-# Optional - Only required for debt trading strategy
-class QuandlConfig:
-    API_KEY = "TyNqcMLyxamGXnTvVBWC"
+        # Access the secret version.
+        id_response = client.access_secret_version(id_name)
 
-
-# Optional - Not Required
-class AlphaVantageConfig:
-    # Put your own Alpha Vantage key here:
-    API_KEY = "30WM6G3P2TVGCIWL"
+        keys_dict = json.loads(id_response.payload.data.decode("utf-8"))
+        
+        # Put your own Alpaca key here:
+        self.API_KEY = keys_dict['api_key_paper']
+        # Put your own Alpaca secret here:
+        self.API_SECRET = keys_dict['secret_key_paper']
+        # If you want to go live, you must change this
+        self.ENDPOINT = "https://paper-api.alpaca.markets"
