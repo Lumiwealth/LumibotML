@@ -1,6 +1,7 @@
 import logging
 from datetime import datetime, timedelta
 from time import time
+from lumibot.entities import Data, Asset
 
 import pandas as pd
 from lumibot.backtesting import (
@@ -20,6 +21,7 @@ from credentials import AlpacaConfig
 from ml_strategy import MachineLearning
 
 # Choose your budget and log file locations
+strategy_name = "MachineLearning"
 budget = 50000
 logfile = "logs/test.log"
 #benchmark_asset = None
@@ -27,15 +29,26 @@ logfile = "logs/test.log"
 # Initialize all our classes
 trader = Trader(logfile=logfile)
 
+
+
 # Development: Minute Data
-asset = "SRNE"
+symbol = "SRNE"
+asset = Asset(
+symbol=symbol,
+asset_type = 'stock'
+)
 df = pd.read_csv(f"data/{asset}_Minute.csv")
 df = df.set_index("time")
 df.index = pd.to_datetime(df.index)
-my_data = dict()
-my_data[asset] = df
+#print(df)
 backtesting_start = datetime(2021, 8, 1)
 backtesting_end = datetime(2021, 8, 3)
+
+my_data = dict()
+my_data[asset] = Data(strategy=strategy_name, asset = asset,  df=df,#   date_start=backtesting_start,
+                #date_end=backtesting_end,
+                timestep= 'minute'
+                )
 
 ####
 # Select our strategy
@@ -44,7 +57,7 @@ backtesting_end = datetime(2021, 8, 3)
 pandas = PandasData(my_data)
 broker = BacktestingBroker(pandas)
 
-strategy_name = "MachineLearning"
+
 
 ####
 # Backtest
@@ -64,8 +77,11 @@ MachineLearning.backtest(
 ####
 # Run the strategy
 ####
+ac = AlpacaConfig()
+# APCA_API_KEY_ID = ac.API_KEY
+# APCA_API_SECRET_KEY = ac.API_SECRET
 
-broker = Alpaca(AlpacaConfig)
+broker = Alpaca(ac)
 strategy = MachineLearning(
     name=strategy_name,
     budget=budget,
