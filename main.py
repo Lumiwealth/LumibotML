@@ -45,7 +45,8 @@ backtesting_start = datetime(2021, 8, 1)
 backtesting_end = datetime(2021, 8, 3)
 
 my_data = dict()
-my_data[asset] = Data(strategy=strategy_name, asset = asset,  df=df,#   date_start=backtesting_start,
+my_data[asset] = Data(#strategy=strategy_name, 
+                asset = asset,  df=df,#   date_start=backtesting_start,
                 #date_end=backtesting_end,
                 timestep= 'minute'
                 )
