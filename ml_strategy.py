@@ -17,7 +17,7 @@ class MachineLearning(Strategy):
         self,
         symbol="SRNE",
         compute_frequency=15,
-        lookback_period=20000,
+        lookback_period=2000,
         pct_portfolio_per_trade=0.20,
         price_change_threshold_up=0.01,
         price_change_threshold_down=0.01,
