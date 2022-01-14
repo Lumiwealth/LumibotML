@@ -169,8 +169,8 @@ class MachineLearning(Strategy):
         current_datetime = self.get_datetime()
         data["timeofday"] = (times.dt.hour * 60) + times.dt.minute
         data["timeofdaysq"] = ((times.dt.hour * 60) + times.dt.minute) ** 2
-        data["unixtime"] = data.index.astype(np.int64) // 10 ** 9
-        data["unixtimesq"] = data.index.astype(np.int64) // 10 ** 8
+        data["unixtime"] = data.index.view(np.int64) // 10 ** 9
+        data["unixtimesq"] = data.index.view(np.int64) // 10 ** 8
         data["time_from_now"] = current_datetime.timestamp() - data["unixtime"]
         data["time_from_now_sq"] = data["time_from_now"] ** 2
 
