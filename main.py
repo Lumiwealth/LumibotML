@@ -15,9 +15,6 @@ from ml_strategy import MachineLearning
 # Choose your budget and log file locations
 ####
 
-strategy_name = "MachineLearning"
-budget = 50000
-
 ####
 # Get and Organize Data
 ####
@@ -51,8 +48,6 @@ MachineLearning.backtest(
     config=AlpacaConfig,
     pandas_data=my_data,
     symbol=asset,
-    name=strategy_name,
-    budget=budget,
 )
 
 ####

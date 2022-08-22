@@ -83,9 +83,14 @@ class MachineLearning(Strategy):
             data = self.get_data(
                 self.symbol, self.compute_frequency * self.lookback_period
             )
+            
+            self.log_message("data")
+            self.log_message(data)
 
             data["close_future"] = data["close"].shift(-self.compute_frequency)
             data_train = data.dropna()
+            
+            self.log_message(data_train)
 
             # Predict
             rf = RandomForestRegressor().fit(
@@ -162,8 +167,13 @@ class MachineLearning(Strategy):
         """
         data_length = window_size + 40
 
-        bars = self.get_symbol_bars(symbol, data_length, "minute")
+        # bars = self.get_symbol_bars(symbol, data_length, "minute")
+        bars = self.get_historical_prices(symbol, data_length, "minute")
+        # print("Bars ",bars)
+        # print("symbol", symbol)
+        # print("data_length", data_length)
         data = bars.df
+        # data = bars
 
         times = data.index.to_series()
         current_datetime = self.get_datetime()
