@@ -12,10 +12,9 @@ from lumibot.traders import Trader
 from sklearn.ensemble import GradientBoostingRegressor, RandomForestRegressor
 
 from credentials import AlpacaConfig
-from ml_strategy_stocks import MachineLearning
 
 
-class MachineLearning(Strategy):
+class MachineLearningStocks(Strategy):
 
     # =====Overloading lifecycle methods=============
 
@@ -229,7 +228,7 @@ if __name__ == "__main__":
         ac = AlpacaConfig(True)
 
         broker = Alpaca(ac)
-        strategy = MachineLearning(
+        strategy = MachineLearningStocks(
             broker=broker,
         )
         trader = Trader()
@@ -260,7 +259,7 @@ if __name__ == "__main__":
         # Backtest
         ####
         pandas = PandasData(my_data)
-        MachineLearning.backtest(
+        MachineLearningStocks.backtest(
             PandasDataBacktesting,
             backtesting_start,
             backtesting_end,

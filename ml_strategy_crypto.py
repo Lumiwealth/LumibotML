@@ -14,7 +14,7 @@ from sklearn.ensemble import RandomForestRegressor
 from credentials import AlpacaConfig
 
 
-class MachineLearning(Strategy):
+class MachineLearningCrypto(Strategy):
     """Parameters:
 
     symbol (str, optional): The symbol that we want to trade. Defaults to "SRNE".
@@ -275,7 +275,7 @@ if __name__ == "__main__":
 
         broker = Alpaca(ac)
 
-        strategy = MachineLearning(
+        strategy = MachineLearningCrypto(
             broker=broker,
         )
 
@@ -307,7 +307,7 @@ if __name__ == "__main__":
         pandas_data = dict()
         pandas_data[asset] = Data(asset, df, timestep="minute", quote=quote_asset)
 
-        MachineLearning.backtest(
+        MachineLearningCrypto.backtest(
             PandasDataBacktesting,
             backtesting_start,
             backtesting_end,
