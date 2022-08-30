@@ -33,10 +33,10 @@ class MachineLearningCrypto(Strategy):
     parameters = {
         "compute_frequency": 15,
         "lookback_period": 200,  # Increasing this will improve accuracy but will take longer to train
-        "pct_portfolio_per_trade": 0.50,
-        "price_change_threshold_up": 0.003,
-        "price_change_threshold_down": -0.003,
-        "max_pct_portfolio_long": 1,
+        "pct_portfolio_per_trade": 0.95,
+        "price_change_threshold_up": 0.016,
+        "price_change_threshold_down": -0.016,
+        "max_pct_portfolio_long": 2,
         "max_pct_portfolio_short": 0.3,
         "take_profit_factor": 1,
         "stop_loss_factor": 0.5,
@@ -352,7 +352,7 @@ if __name__ == "__main__":
         ####
 
         backtesting_start = datetime(2021, 2, 19)
-        backtesting_end = datetime(2021, 6, 1)
+        backtesting_end = datetime(2021, 5, 1)
         # backtesting_end = datetime(2021, 3, 19)
 
         # Set Asset and Quote
