@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import numpy as np
 import pandas as pd
 import ta
-from autots import AutoTS, load_daily
+from autots import AutoTS
 from lumibot.backtesting import PandasDataBacktesting
 from lumibot.brokers import Alpaca
 from lumibot.entities import Asset, Data
@@ -40,6 +40,7 @@ class MachineLearningCrypto(Strategy):
         "max_pct_portfolio_short": 0.3,
         "take_profit_factor": 1,
         "stop_loss_factor": 0.5,
+        "ml_model_type": "sklearn",  # "autots" or "sklearn"
     }
 
     def initialize(self):
@@ -86,6 +87,7 @@ class MachineLearningCrypto(Strategy):
         max_pct_portfolio_short = self.parameters["max_pct_portfolio_short"]
         take_profit_factor = self.parameters["take_profit_factor"]
         stop_loss_factor = self.parameters["stop_loss_factor"]
+        ml_model_type = self.parameters["ml_model_type"]
 
         current_datetime = self.get_datetime()
         time_since_last_compute = None
@@ -113,12 +115,30 @@ class MachineLearningCrypto(Strategy):
                 self.shares_owned = float(position.quantity)
             self.asset_value = self.shares_owned * self.last_price
 
+            data["close_future"] = data["close"].shift(-compute_frequency)
             data_train = data.dropna()
-            self.model = self.model.fit(data_train)
-            predictions = self.model.predict().forecast
 
-            # Our model's preduicted price
-            self.prediction = predictions["close"][0]
+            if ml_model_type == "autots":
+                self.model = self.model.fit(data_train)
+                predictions = self.model.predict().forecast
+
+                # Our model's preduicted price
+                self.prediction = predictions["close"][0]
+            else:
+                # Predict
+                rf = RandomForestRegressor().fit(
+                    X=data_train.drop(["close_future", "symbol"], axis=1),
+                    y=data_train["close_future"],
+                )
+
+                # Our current situation
+                last_row = data.iloc[[-1]]
+
+                X_test = last_row.drop(["close_future", "symbol"], axis=1)
+                predictions = rf.predict(X_test)
+
+                # Our model's preduicted price
+                self.prediction = predictions[0]
 
             # Calculate the percentage change that the model predicts
             expected_price_change = self.prediction - self.last_price
@@ -292,7 +312,8 @@ if __name__ == "__main__":
         ####
 
         backtesting_start = datetime(2021, 2, 19)
-        backtesting_end = datetime(2021, 3, 19)
+        backtesting_end = datetime(2021, 2, 20)
+        # backtesting_end = datetime(2021, 3, 19)
 
         # Set Asset and Quote
         asset = Asset(symbol="BTC", asset_type="crypto")

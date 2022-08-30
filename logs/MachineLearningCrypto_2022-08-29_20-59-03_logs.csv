@@ -1,0 +1,5 @@
+2022-08-29 20:59:06,500: root: INFO: MachineLearningCrypto : Executing the initialize lifecycle method
+2022-08-29 20:59:06,623: root: INFO: Current backtesting datetime 2021-02-01 00:00:00-05:00
+2022-08-29 20:59:06,623: root: INFO: MachineLearningCrypto : Executing the before_starting_trading lifecycle method
+2022-08-29 20:59:06,628: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 20:59:06,628: root: INFO: Getting historical prices for BTC, 3040 bars, minute

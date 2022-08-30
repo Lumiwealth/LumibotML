@@ -1,0 +1,696 @@
+2022-08-29 23:59:20,555: root: INFO: MachineLearningCrypto : Executing the initialize lifecycle method
+2022-08-29 23:59:20,591: root: INFO: Current backtesting datetime 2021-02-19 00:00:00-05:00
+2022-08-29 23:59:20,591: root: INFO: MachineLearningCrypto : Executing the before_starting_trading lifecycle method
+2022-08-29 23:59:20,593: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:20,593: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 23:59:32,683: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:32,683: root: INFO: Current backtesting datetime 2021-02-19 00:15:00-05:00
+2022-08-29 23:59:32,685: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:32,688: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:32,688: root: INFO: Current backtesting datetime 2021-02-19 00:30:00-05:00
+2022-08-29 23:59:32,692: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:32,692: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 23:59:41,545: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:41,545: root: INFO: Current backtesting datetime 2021-02-19 00:45:00-05:00
+2022-08-29 23:59:41,547: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:41,549: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:41,550: root: INFO: Current backtesting datetime 2021-02-19 01:00:00-05:00
+2022-08-29 23:59:41,554: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:41,554: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 23:59:50,795: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:50,796: root: INFO: Current backtesting datetime 2021-02-19 01:15:00-05:00
+2022-08-29 23:59:50,798: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:50,801: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:50,801: root: INFO: Current backtesting datetime 2021-02-19 01:30:00-05:00
+2022-08-29 23:59:50,805: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:50,805: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 23:59:59,565: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:59,566: root: INFO: Current backtesting datetime 2021-02-19 01:45:00-05:00
+2022-08-29 23:59:59,568: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:59,571: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 23:59:59,572: root: INFO: Current backtesting datetime 2021-02-19 02:00:00-05:00
+2022-08-29 23:59:59,576: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 23:59:59,576: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:00:08,464: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:08,464: root: INFO: Current backtesting datetime 2021-02-19 02:15:00-05:00
+2022-08-30 00:00:08,469: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:08,472: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:08,472: root: INFO: Current backtesting datetime 2021-02-19 02:30:00-05:00
+2022-08-30 00:00:08,478: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:08,478: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:00:17,071: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:17,071: root: INFO: Current backtesting datetime 2021-02-19 02:45:00-05:00
+2022-08-30 00:00:17,076: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:17,079: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:17,079: root: INFO: Current backtesting datetime 2021-02-19 03:00:00-05:00
+2022-08-30 00:00:17,084: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:17,084: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:00:26,035: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:26,035: root: INFO: Current backtesting datetime 2021-02-19 03:15:00-05:00
+2022-08-30 00:00:26,040: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:26,044: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:26,044: root: INFO: Current backtesting datetime 2021-02-19 03:30:00-05:00
+2022-08-30 00:00:26,048: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:26,049: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:00:34,645: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:34,646: root: INFO: Current backtesting datetime 2021-02-19 03:45:00-05:00
+2022-08-30 00:00:34,650: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:34,653: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:34,654: root: INFO: Current backtesting datetime 2021-02-19 04:00:00-05:00
+2022-08-30 00:00:34,658: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:34,659: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:00:44,086: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:44,086: root: INFO: Current backtesting datetime 2021-02-19 04:15:00-05:00
+2022-08-30 00:00:44,090: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:44,094: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:44,094: root: INFO: Current backtesting datetime 2021-02-19 04:30:00-05:00
+2022-08-30 00:00:44,099: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:44,099: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:00:53,605: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:53,605: root: INFO: Current backtesting datetime 2021-02-19 04:45:00-05:00
+2022-08-30 00:00:53,610: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:53,613: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:00:53,613: root: INFO: Current backtesting datetime 2021-02-19 05:00:00-05:00
+2022-08-30 00:00:53,618: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:00:53,618: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:01:02,228: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:02,228: root: INFO: Current backtesting datetime 2021-02-19 05:15:00-05:00
+2022-08-30 00:01:02,233: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:02,236: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:02,236: root: INFO: Current backtesting datetime 2021-02-19 05:30:00-05:00
+2022-08-30 00:01:02,240: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:02,240: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:01:10,887: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:10,889: root: INFO: Current backtesting datetime 2021-02-19 05:45:00-05:00
+2022-08-30 00:01:10,898: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:10,902: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:10,902: root: INFO: Current backtesting datetime 2021-02-19 06:00:00-05:00
+2022-08-30 00:01:10,906: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:10,906: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:01:20,452: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:20,453: root: INFO: Current backtesting datetime 2021-02-19 06:15:00-05:00
+2022-08-30 00:01:20,460: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:20,464: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:20,464: root: INFO: Current backtesting datetime 2021-02-19 06:30:00-05:00
+2022-08-30 00:01:20,468: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:20,468: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:01:29,247: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:29,248: root: INFO: Current backtesting datetime 2021-02-19 06:45:00-05:00
+2022-08-30 00:01:29,253: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:29,256: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:29,257: root: INFO: Current backtesting datetime 2021-02-19 07:00:00-05:00
+2022-08-30 00:01:29,261: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:29,261: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:01:38,130: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:38,130: root: INFO: Current backtesting datetime 2021-02-19 07:15:00-05:00
+2022-08-30 00:01:38,135: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:38,138: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:38,139: root: INFO: Current backtesting datetime 2021-02-19 07:30:00-05:00
+2022-08-30 00:01:38,144: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:38,144: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:01:46,911: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:46,912: root: INFO: Current backtesting datetime 2021-02-19 07:45:00-05:00
+2022-08-30 00:01:46,919: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:46,922: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:46,922: root: INFO: Current backtesting datetime 2021-02-19 08:00:00-05:00
+2022-08-30 00:01:46,929: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:46,929: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:01:57,163: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:57,163: root: INFO: Current backtesting datetime 2021-02-19 08:15:00-05:00
+2022-08-30 00:01:57,169: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:57,172: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:01:57,172: root: INFO: Current backtesting datetime 2021-02-19 08:30:00-05:00
+2022-08-30 00:01:57,179: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:01:57,179: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:02:06,038: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:06,038: root: INFO: Current backtesting datetime 2021-02-19 08:45:00-05:00
+2022-08-30 00:02:06,045: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:06,048: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:06,048: root: INFO: Current backtesting datetime 2021-02-19 09:00:00-05:00
+2022-08-30 00:02:06,054: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:06,054: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:02:15,097: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:15,097: root: INFO: Current backtesting datetime 2021-02-19 09:15:00-05:00
+2022-08-30 00:02:15,103: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:15,106: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:15,106: root: INFO: Current backtesting datetime 2021-02-19 09:30:00-05:00
+2022-08-30 00:02:15,113: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:15,113: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:02:24,096: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:24,096: root: INFO: Current backtesting datetime 2021-02-19 09:45:00-05:00
+2022-08-30 00:02:24,103: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:24,106: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:24,106: root: INFO: Current backtesting datetime 2021-02-19 10:00:00-05:00
+2022-08-30 00:02:24,113: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:24,113: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:02:33,478: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:33,479: root: INFO: Current backtesting datetime 2021-02-19 10:15:00-05:00
+2022-08-30 00:02:33,485: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:33,488: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:33,489: root: INFO: Current backtesting datetime 2021-02-19 10:30:00-05:00
+2022-08-30 00:02:33,498: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:33,498: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:02:42,771: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:42,771: root: INFO: Current backtesting datetime 2021-02-19 10:45:00-05:00
+2022-08-30 00:02:42,778: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:42,781: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:42,781: root: INFO: Current backtesting datetime 2021-02-19 11:00:00-05:00
+2022-08-30 00:02:42,790: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:42,790: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:02:51,626: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:51,627: root: INFO: Current backtesting datetime 2021-02-19 11:15:00-05:00
+2022-08-30 00:02:51,634: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:51,636: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:02:51,637: root: INFO: Current backtesting datetime 2021-02-19 11:30:00-05:00
+2022-08-30 00:02:51,645: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:02:51,646: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:03:00,539: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:00,539: root: INFO: Current backtesting datetime 2021-02-19 11:45:00-05:00
+2022-08-30 00:03:00,552: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:00,556: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:00,557: root: INFO: Current backtesting datetime 2021-02-19 12:00:00-05:00
+2022-08-30 00:03:00,568: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:00,569: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:03:09,283: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:09,283: root: INFO: Current backtesting datetime 2021-02-19 12:15:00-05:00
+2022-08-30 00:03:09,291: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:09,293: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:09,294: root: INFO: Current backtesting datetime 2021-02-19 12:30:00-05:00
+2022-08-30 00:03:09,303: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:09,303: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:03:18,413: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:18,413: root: INFO: Current backtesting datetime 2021-02-19 12:45:00-05:00
+2022-08-30 00:03:18,423: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:18,426: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:18,426: root: INFO: Current backtesting datetime 2021-02-19 13:00:00-05:00
+2022-08-30 00:03:18,436: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:18,436: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:03:28,443: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:28,444: root: INFO: Current backtesting datetime 2021-02-19 13:15:00-05:00
+2022-08-30 00:03:28,454: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:28,457: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:28,457: root: INFO: Current backtesting datetime 2021-02-19 13:30:00-05:00
+2022-08-30 00:03:28,465: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:28,465: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:03:37,597: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:37,597: root: INFO: Current backtesting datetime 2021-02-19 13:45:00-05:00
+2022-08-30 00:03:37,608: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:37,610: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:37,611: root: INFO: Current backtesting datetime 2021-02-19 14:00:00-05:00
+2022-08-30 00:03:37,619: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:37,619: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:03:46,175: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:46,176: root: INFO: Current backtesting datetime 2021-02-19 14:15:00-05:00
+2022-08-30 00:03:46,186: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:46,189: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:46,190: root: INFO: Current backtesting datetime 2021-02-19 14:30:00-05:00
+2022-08-30 00:03:46,199: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:46,199: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:03:54,749: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:54,749: root: INFO: Current backtesting datetime 2021-02-19 14:45:00-05:00
+2022-08-30 00:03:54,761: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:54,763: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:03:54,763: root: INFO: Current backtesting datetime 2021-02-19 15:00:00-05:00
+2022-08-30 00:03:54,775: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:03:54,775: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:04:03,695: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:03,695: root: INFO: Current backtesting datetime 2021-02-19 15:15:00-05:00
+2022-08-30 00:04:03,707: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:03,710: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:03,710: root: INFO: Current backtesting datetime 2021-02-19 15:30:00-05:00
+2022-08-30 00:04:03,721: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:03,721: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:04:13,133: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:13,133: root: INFO: Current backtesting datetime 2021-02-19 15:45:00-05:00
+2022-08-30 00:04:13,145: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:13,148: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:13,148: root: INFO: Current backtesting datetime 2021-02-19 16:00:00-05:00
+2022-08-30 00:04:13,159: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:13,159: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:04:22,698: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:22,698: root: INFO: Current backtesting datetime 2021-02-19 16:15:00-05:00
+2022-08-30 00:04:22,711: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:22,714: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:22,714: root: INFO: Current backtesting datetime 2021-02-19 16:30:00-05:00
+2022-08-30 00:04:22,731: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:22,732: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:04:31,887: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:31,887: root: INFO: Current backtesting datetime 2021-02-19 16:45:00-05:00
+2022-08-30 00:04:31,898: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:31,901: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:31,901: root: INFO: Current backtesting datetime 2021-02-19 17:00:00-05:00
+2022-08-30 00:04:31,910: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:31,910: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:04:41,128: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:41,129: root: INFO: Current backtesting datetime 2021-02-19 17:15:00-05:00
+2022-08-30 00:04:41,142: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:41,146: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:41,146: root: INFO: Current backtesting datetime 2021-02-19 17:30:00-05:00
+2022-08-30 00:04:41,155: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:41,155: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:04:50,087: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:50,087: root: INFO: Current backtesting datetime 2021-02-19 17:45:00-05:00
+2022-08-30 00:04:50,102: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:50,106: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:50,106: root: INFO: Current backtesting datetime 2021-02-19 18:00:00-05:00
+2022-08-30 00:04:50,114: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:50,114: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:04:58,914: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:58,914: root: INFO: Current backtesting datetime 2021-02-19 18:15:00-05:00
+2022-08-30 00:04:58,927: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:58,930: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:04:58,931: root: INFO: Current backtesting datetime 2021-02-19 18:30:00-05:00
+2022-08-30 00:04:58,939: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:04:58,940: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:05:07,911: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:07,912: root: INFO: Current backtesting datetime 2021-02-19 18:45:00-05:00
+2022-08-30 00:05:07,925: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:07,929: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:07,929: root: INFO: Current backtesting datetime 2021-02-19 19:00:00-05:00
+2022-08-30 00:05:07,939: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:07,939: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:05:16,802: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:16,803: root: INFO: Current backtesting datetime 2021-02-19 19:15:00-05:00
+2022-08-30 00:05:16,815: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:16,818: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:16,818: root: INFO: Current backtesting datetime 2021-02-19 19:30:00-05:00
+2022-08-30 00:05:16,833: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:16,833: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:05:25,895: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:25,895: root: INFO: Current backtesting datetime 2021-02-19 19:45:00-05:00
+2022-08-30 00:05:25,909: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:25,912: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:25,912: root: INFO: Current backtesting datetime 2021-02-19 20:00:00-05:00
+2022-08-30 00:05:25,927: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:25,928: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:05:35,243: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:35,244: root: INFO: Current backtesting datetime 2021-02-19 20:15:00-05:00
+2022-08-30 00:05:35,258: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:35,260: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:35,261: root: INFO: Current backtesting datetime 2021-02-19 20:30:00-05:00
+2022-08-30 00:05:35,275: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:35,276: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:05:44,563: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:44,563: root: INFO: Current backtesting datetime 2021-02-19 20:45:00-05:00
+2022-08-30 00:05:44,577: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:44,579: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:44,580: root: INFO: Current backtesting datetime 2021-02-19 21:00:00-05:00
+2022-08-30 00:05:44,597: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:44,597: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:05:53,427: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:53,427: root: INFO: Current backtesting datetime 2021-02-19 21:15:00-05:00
+2022-08-30 00:05:53,444: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:53,447: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:05:53,447: root: INFO: Current backtesting datetime 2021-02-19 21:30:00-05:00
+2022-08-30 00:05:53,464: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:05:53,464: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:06:04,358: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:04,359: root: INFO: Current backtesting datetime 2021-02-19 21:45:00-05:00
+2022-08-30 00:06:04,373: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:04,376: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:04,376: root: INFO: Current backtesting datetime 2021-02-19 22:00:00-05:00
+2022-08-30 00:06:04,392: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:04,393: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:06:14,571: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:14,571: root: INFO: Current backtesting datetime 2021-02-19 22:15:00-05:00
+2022-08-30 00:06:14,587: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:14,590: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:14,590: root: INFO: Current backtesting datetime 2021-02-19 22:30:00-05:00
+2022-08-30 00:06:14,610: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:14,611: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:06:24,749: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:24,749: root: INFO: Current backtesting datetime 2021-02-19 22:45:00-05:00
+2022-08-30 00:06:24,765: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:24,768: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:24,768: root: INFO: Current backtesting datetime 2021-02-19 23:00:00-05:00
+2022-08-30 00:06:24,784: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:24,784: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:06:34,555: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:34,555: root: INFO: Current backtesting datetime 2021-02-19 23:15:00-05:00
+2022-08-30 00:06:34,572: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:34,575: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:34,575: root: INFO: Current backtesting datetime 2021-02-19 23:30:00-05:00
+2022-08-30 00:06:34,634: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:34,634: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:06:44,276: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:44,276: root: INFO: Current backtesting datetime 2021-02-19 23:45:00-05:00
+2022-08-30 00:06:44,292: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:44,294: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:44,295: root: INFO: Current backtesting datetime 2021-02-20 00:00:00-05:00
+2022-08-30 00:06:44,311: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:44,311: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:06:53,696: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:53,697: root: INFO: Current backtesting datetime 2021-02-20 00:15:00-05:00
+2022-08-30 00:06:53,712: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:53,715: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:06:53,715: root: INFO: Current backtesting datetime 2021-02-20 00:30:00-05:00
+2022-08-30 00:06:53,732: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:06:53,732: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:07:03,282: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:03,282: root: INFO: Current backtesting datetime 2021-02-20 00:45:00-05:00
+2022-08-30 00:07:03,298: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:03,301: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:03,301: root: INFO: Current backtesting datetime 2021-02-20 01:00:00-05:00
+2022-08-30 00:07:03,319: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:03,320: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:07:13,222: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:13,223: root: INFO: Current backtesting datetime 2021-02-20 01:15:00-05:00
+2022-08-30 00:07:13,241: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:13,243: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:13,243: root: INFO: Current backtesting datetime 2021-02-20 01:30:00-05:00
+2022-08-30 00:07:13,261: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:13,261: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:07:22,791: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:22,792: root: INFO: Current backtesting datetime 2021-02-20 01:45:00-05:00
+2022-08-30 00:07:22,808: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:22,811: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:22,811: root: INFO: Current backtesting datetime 2021-02-20 02:00:00-05:00
+2022-08-30 00:07:22,830: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:22,831: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:07:32,778: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:32,778: root: INFO: Current backtesting datetime 2021-02-20 02:15:00-05:00
+2022-08-30 00:07:32,795: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:32,797: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:32,797: root: INFO: Current backtesting datetime 2021-02-20 02:30:00-05:00
+2022-08-30 00:07:32,817: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:32,817: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:07:42,167: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:42,168: root: INFO: Current backtesting datetime 2021-02-20 02:45:00-05:00
+2022-08-30 00:07:42,186: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:42,189: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:42,189: root: INFO: Current backtesting datetime 2021-02-20 03:00:00-05:00
+2022-08-30 00:07:42,211: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:42,211: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:07:52,013: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:52,013: root: INFO: Current backtesting datetime 2021-02-20 03:15:00-05:00
+2022-08-30 00:07:52,030: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:52,033: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:07:52,033: root: INFO: Current backtesting datetime 2021-02-20 03:30:00-05:00
+2022-08-30 00:07:52,052: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:07:52,052: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:08:03,651: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:03,652: root: INFO: Current backtesting datetime 2021-02-20 03:45:00-05:00
+2022-08-30 00:08:03,672: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:03,674: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:03,674: root: INFO: Current backtesting datetime 2021-02-20 04:00:00-05:00
+2022-08-30 00:08:03,696: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:03,697: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:08:15,060: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:15,061: root: INFO: Current backtesting datetime 2021-02-20 04:15:00-05:00
+2022-08-30 00:08:15,079: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:15,082: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:15,082: root: INFO: Current backtesting datetime 2021-02-20 04:30:00-05:00
+2022-08-30 00:08:15,097: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:15,097: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:08:25,554: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:25,554: root: INFO: Current backtesting datetime 2021-02-20 04:45:00-05:00
+2022-08-30 00:08:25,617: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:25,621: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:25,621: root: INFO: Current backtesting datetime 2021-02-20 05:00:00-05:00
+2022-08-30 00:08:25,633: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:25,633: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:08:35,453: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:35,453: root: INFO: Current backtesting datetime 2021-02-20 05:15:00-05:00
+2022-08-30 00:08:35,470: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:35,474: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:35,474: root: INFO: Current backtesting datetime 2021-02-20 05:30:00-05:00
+2022-08-30 00:08:35,485: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:35,485: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:08:45,802: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:45,802: root: INFO: Current backtesting datetime 2021-02-20 05:45:00-05:00
+2022-08-30 00:08:45,828: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:45,832: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:45,832: root: INFO: Current backtesting datetime 2021-02-20 06:00:00-05:00
+2022-08-30 00:08:45,850: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:45,850: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:08:56,275: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:56,276: root: INFO: Current backtesting datetime 2021-02-20 06:15:00-05:00
+2022-08-30 00:08:56,298: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:56,303: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:08:56,303: root: INFO: Current backtesting datetime 2021-02-20 06:30:00-05:00
+2022-08-30 00:08:56,316: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:08:56,316: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:09:05,916: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:05,916: root: INFO: Current backtesting datetime 2021-02-20 06:45:00-05:00
+2022-08-30 00:09:05,937: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:05,939: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:05,939: root: INFO: Current backtesting datetime 2021-02-20 07:00:00-05:00
+2022-08-30 00:09:05,960: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:05,960: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:09:16,038: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:16,039: root: INFO: Current backtesting datetime 2021-02-20 07:15:00-05:00
+2022-08-30 00:09:16,059: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:16,061: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:16,061: root: INFO: Current backtesting datetime 2021-02-20 07:30:00-05:00
+2022-08-30 00:09:16,082: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:16,083: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:09:26,368: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:26,368: root: INFO: Current backtesting datetime 2021-02-20 07:45:00-05:00
+2022-08-30 00:09:26,388: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:26,391: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:26,391: root: INFO: Current backtesting datetime 2021-02-20 08:00:00-05:00
+2022-08-30 00:09:26,412: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:26,412: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:09:36,535: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:36,535: root: INFO: Current backtesting datetime 2021-02-20 08:15:00-05:00
+2022-08-30 00:09:36,556: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:36,559: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:36,559: root: INFO: Current backtesting datetime 2021-02-20 08:30:00-05:00
+2022-08-30 00:09:36,581: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:36,581: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:09:50,113: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:50,114: root: INFO: Current backtesting datetime 2021-02-20 08:45:00-05:00
+2022-08-30 00:09:50,134: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:50,136: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:09:50,137: root: INFO: Current backtesting datetime 2021-02-20 09:00:00-05:00
+2022-08-30 00:09:50,157: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:09:50,157: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:10:00,329: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:00,329: root: INFO: Current backtesting datetime 2021-02-20 09:15:00-05:00
+2022-08-30 00:10:00,349: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:00,352: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:00,352: root: INFO: Current backtesting datetime 2021-02-20 09:30:00-05:00
+2022-08-30 00:10:00,373: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:00,373: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:10:23,776: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:23,778: root: INFO: Current backtesting datetime 2021-02-20 09:45:00-05:00
+2022-08-30 00:10:23,826: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:23,830: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:23,830: root: INFO: Current backtesting datetime 2021-02-20 10:00:00-05:00
+2022-08-30 00:10:23,867: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:23,868: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:10:37,704: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:37,704: root: INFO: Current backtesting datetime 2021-02-20 10:15:00-05:00
+2022-08-30 00:10:37,732: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:37,735: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:37,736: root: INFO: Current backtesting datetime 2021-02-20 10:30:00-05:00
+2022-08-30 00:10:37,764: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:37,764: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:10:48,083: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:48,084: root: INFO: Current backtesting datetime 2021-02-20 10:45:00-05:00
+2022-08-30 00:10:48,109: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:48,112: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:48,112: root: INFO: Current backtesting datetime 2021-02-20 11:00:00-05:00
+2022-08-30 00:10:48,136: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:48,137: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:10:59,700: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:59,700: root: INFO: Current backtesting datetime 2021-02-20 11:15:00-05:00
+2022-08-30 00:10:59,725: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:59,728: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:10:59,728: root: INFO: Current backtesting datetime 2021-02-20 11:30:00-05:00
+2022-08-30 00:10:59,755: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:10:59,755: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:11:11,622: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:11,622: root: INFO: Current backtesting datetime 2021-02-20 11:45:00-05:00
+2022-08-30 00:11:11,649: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:11,652: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:11,652: root: INFO: Current backtesting datetime 2021-02-20 12:00:00-05:00
+2022-08-30 00:11:11,682: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:11,683: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:11:23,446: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:23,446: root: INFO: Current backtesting datetime 2021-02-20 12:15:00-05:00
+2022-08-30 00:11:23,484: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:23,487: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:23,487: root: INFO: Current backtesting datetime 2021-02-20 12:30:00-05:00
+2022-08-30 00:11:23,515: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:23,515: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:11:38,727: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:38,728: root: INFO: Current backtesting datetime 2021-02-20 12:45:00-05:00
+2022-08-30 00:11:38,764: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:38,767: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:38,767: root: INFO: Current backtesting datetime 2021-02-20 13:00:00-05:00
+2022-08-30 00:11:38,793: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:38,793: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:11:50,944: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:50,944: root: INFO: Current backtesting datetime 2021-02-20 13:15:00-05:00
+2022-08-30 00:11:50,969: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:50,972: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:11:50,973: root: INFO: Current backtesting datetime 2021-02-20 13:30:00-05:00
+2022-08-30 00:11:50,999: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:11:50,999: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:12:04,264: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:04,264: root: INFO: Current backtesting datetime 2021-02-20 13:45:00-05:00
+2022-08-30 00:12:04,299: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:04,301: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:04,302: root: INFO: Current backtesting datetime 2021-02-20 14:00:00-05:00
+2022-08-30 00:12:04,329: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:04,329: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:12:17,625: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:17,625: root: INFO: Current backtesting datetime 2021-02-20 14:15:00-05:00
+2022-08-30 00:12:17,660: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:17,663: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:17,663: root: INFO: Current backtesting datetime 2021-02-20 14:30:00-05:00
+2022-08-30 00:12:17,692: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:17,692: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:12:30,425: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:30,425: root: INFO: Current backtesting datetime 2021-02-20 14:45:00-05:00
+2022-08-30 00:12:30,452: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:30,455: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:30,455: root: INFO: Current backtesting datetime 2021-02-20 15:00:00-05:00
+2022-08-30 00:12:30,477: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:30,477: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:12:43,893: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:43,893: root: INFO: Current backtesting datetime 2021-02-20 15:15:00-05:00
+2022-08-30 00:12:43,920: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:43,923: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:43,923: root: INFO: Current backtesting datetime 2021-02-20 15:30:00-05:00
+2022-08-30 00:12:43,950: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:43,951: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:12:56,369: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:56,370: root: INFO: Current backtesting datetime 2021-02-20 15:45:00-05:00
+2022-08-30 00:12:56,398: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:56,401: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:12:56,401: root: INFO: Current backtesting datetime 2021-02-20 16:00:00-05:00
+2022-08-30 00:12:56,424: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:12:56,424: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:13:07,730: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:07,730: root: INFO: Current backtesting datetime 2021-02-20 16:15:00-05:00
+2022-08-30 00:13:07,760: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:07,765: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:07,765: root: INFO: Current backtesting datetime 2021-02-20 16:30:00-05:00
+2022-08-30 00:13:07,784: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:07,784: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:13:19,493: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:19,494: root: INFO: Current backtesting datetime 2021-02-20 16:45:00-05:00
+2022-08-30 00:13:19,552: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:19,558: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:19,559: root: INFO: Current backtesting datetime 2021-02-20 17:00:00-05:00
+2022-08-30 00:13:19,589: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:19,590: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:13:36,243: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:36,245: root: INFO: Current backtesting datetime 2021-02-20 17:15:00-05:00
+2022-08-30 00:13:36,285: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:36,298: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:36,298: root: INFO: Current backtesting datetime 2021-02-20 17:30:00-05:00
+2022-08-30 00:13:36,332: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:36,333: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:13:49,761: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:49,762: root: INFO: Current backtesting datetime 2021-02-20 17:45:00-05:00
+2022-08-30 00:13:49,815: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:49,820: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:13:49,821: root: INFO: Current backtesting datetime 2021-02-20 18:00:00-05:00
+2022-08-30 00:13:49,841: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:13:49,841: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:14:01,811: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:01,811: root: INFO: Current backtesting datetime 2021-02-20 18:15:00-05:00
+2022-08-30 00:14:01,866: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:01,870: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:01,871: root: INFO: Current backtesting datetime 2021-02-20 18:30:00-05:00
+2022-08-30 00:14:01,916: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:01,917: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:14:13,187: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:13,187: root: INFO: Current backtesting datetime 2021-02-20 18:45:00-05:00
+2022-08-30 00:14:13,215: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:13,218: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:13,218: root: INFO: Current backtesting datetime 2021-02-20 19:00:00-05:00
+2022-08-30 00:14:13,254: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:13,254: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:14:24,135: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:24,136: root: INFO: Current backtesting datetime 2021-02-20 19:15:00-05:00
+2022-08-30 00:14:24,175: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:24,178: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:24,179: root: INFO: Current backtesting datetime 2021-02-20 19:30:00-05:00
+2022-08-30 00:14:24,217: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:24,217: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:14:35,592: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:35,592: root: INFO: Current backtesting datetime 2021-02-20 19:45:00-05:00
+2022-08-30 00:14:35,620: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:35,623: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:35,623: root: INFO: Current backtesting datetime 2021-02-20 20:00:00-05:00
+2022-08-30 00:14:35,655: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:35,655: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:14:45,134: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:45,134: root: INFO: Current backtesting datetime 2021-02-20 20:15:00-05:00
+2022-08-30 00:14:45,161: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:45,164: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:45,164: root: INFO: Current backtesting datetime 2021-02-20 20:30:00-05:00
+2022-08-30 00:14:45,192: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:45,192: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:14:56,832: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:56,833: root: INFO: Current backtesting datetime 2021-02-20 20:45:00-05:00
+2022-08-30 00:14:56,872: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:56,876: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:14:56,876: root: INFO: Current backtesting datetime 2021-02-20 21:00:00-05:00
+2022-08-30 00:14:56,921: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:14:56,923: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:15:09,147: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:09,148: root: INFO: Current backtesting datetime 2021-02-20 21:15:00-05:00
+2022-08-30 00:15:09,179: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:09,184: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:09,184: root: INFO: Current backtesting datetime 2021-02-20 21:30:00-05:00
+2022-08-30 00:15:09,216: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:09,216: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:15:20,437: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:20,438: root: INFO: Current backtesting datetime 2021-02-20 21:45:00-05:00
+2022-08-30 00:15:20,468: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:20,470: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:20,470: root: INFO: Current backtesting datetime 2021-02-20 22:00:00-05:00
+2022-08-30 00:15:20,500: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:20,501: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:15:35,492: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:35,493: root: INFO: Current backtesting datetime 2021-02-20 22:15:00-05:00
+2022-08-30 00:15:35,574: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:35,577: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:35,577: root: INFO: Current backtesting datetime 2021-02-20 22:30:00-05:00
+2022-08-30 00:15:35,612: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:35,612: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:15:46,818: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:46,818: root: INFO: Current backtesting datetime 2021-02-20 22:45:00-05:00
+2022-08-30 00:15:46,857: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:46,860: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:46,861: root: INFO: Current backtesting datetime 2021-02-20 23:00:00-05:00
+2022-08-30 00:15:46,902: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:46,902: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:15:59,412: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:59,412: root: INFO: Current backtesting datetime 2021-02-20 23:15:00-05:00
+2022-08-30 00:15:59,451: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:59,454: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:15:59,454: root: INFO: Current backtesting datetime 2021-02-20 23:30:00-05:00
+2022-08-30 00:15:59,487: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:15:59,487: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-30 00:16:09,477: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:16:09,477: root: INFO: Current backtesting datetime 2021-02-20 23:45:00-05:00
+2022-08-30 00:16:09,511: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-30 00:16:09,514: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-30 00:16:09,514: root: INFO: Current backtesting datetime 2021-02-21 00:00:00-05:00
+2022-08-30 00:16:09,516: root: INFO: Current backtesting datetime 2021-02-21 23:54:00-05:00
+2022-08-30 00:16:09,517: root: INFO: MachineLearningCrypto : Executing the before_market_closes lifecycle method
+2022-08-30 00:16:09,519: root: INFO: Current backtesting datetime 2021-02-21 23:59:00-05:00
+2022-08-30 00:16:09,519: root: INFO: MachineLearningCrypto : Executing the after_market_closes lifecycle method
+2022-08-30 00:16:09,519: root: INFO: MachineLearningCrypto : Executing the on_strategy_end lifecycle method
+2022-08-30 00:16:09,547: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-30 00:16:09,563: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-30 00:16:09,564: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-30 00:16:09,564: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-30 00:16:09,564: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-30 00:16:09,565: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-19
+2022-08-30 00:16:09,565: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-30 00:16:09,565: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-30 00:16:13,284: root: INFO: MachineLearningCrypto : Total Return: 0.38%
+2022-08-30 00:16:13,284: root: INFO: MachineLearningCrypto : BTC-USD CAGR 297.05%
+2022-08-30 00:16:13,284: root: INFO: MachineLearningCrypto : BTC-USD Volatility nan%
+2022-08-30 00:16:13,284: root: INFO: MachineLearningCrypto : BTC-USD Sharpe nan
+2022-08-30 00:16:13,284: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 0.00% on 2021-02-20
+2022-08-30 00:16:13,284: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 0.00%
+2022-08-30 00:16:13,285: backtest_stats: INFO: Backtest took 0:16:52.732000 for a speed of 0.012
+2022-08-30 00:16:13,289: root: INFO: There were no trades in this backtest.

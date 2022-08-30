@@ -1,0 +1,64 @@
+2022-08-29 20:57:35,404: root: INFO: MachineLearningCrypto : Executing the initialize lifecycle method
+2022-08-29 20:57:35,583: root: INFO: Current backtesting datetime 2021-02-01 00:00:00-05:00
+2022-08-29 20:57:35,583: root: INFO: MachineLearningCrypto : Executing the before_starting_trading lifecycle method
+2022-08-29 20:57:35,591: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 20:57:35,591: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 20:57:52,767: root: ERROR: Could not convert date to datetime format. Incorrect column name or preformat with pandas to_datetime
+2022-08-29 20:57:52,779: root: ERROR: Traceback (most recent call last):
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 163, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5198, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5206, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: None
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/autots/tools/shaping.py", line 139, in long_to_wide
+    df_long[date_col], infer_datetime_format=True
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/pandas/core/frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: None
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 569, in run
+    self._run_trading_session()
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 543, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 262, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 286, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 70, in func_output
+    return func_input(self, *args, **kwargs)
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/strategies/strategy_executor.py", line 340, in _on_trading_iteration
+    on_trading_iteration()
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/tools/decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/lumibot/tools/decorators.py", line 34, in call_function_get_frame
+    result = func(*args, **kwargs)
+  File "/Users/robertgrzesik/Development/LumibotML/ml_strategy_crypto.py", line 120, in on_trading_iteration
+    rf = self.model.fit(
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/autots/evaluator/auto_ts.py", line 689, in fit
+    df_wide = long_to_wide(
+  File "/Users/robertgrzesik/opt/anaconda3/lib/python3.8/site-packages/autots/tools/shaping.py", line 142, in long_to_wide
+    raise ValueError(
+ValueError: Could not convert date to datetime format. Incorrect column name or preformat with pandas to_datetime
+
+2022-08-29 20:57:52,780: root: INFO: MachineLearningCrypto : Executing the on_bot_crash event method
+2022-08-29 20:57:52,780: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 20:57:52,783: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 20:57:52,783: root: INFO: Current backtesting datetime 2021-02-01 00:15:00-05:00
+2022-08-29 20:57:52,786: root: INFO: Current backtesting datetime 2021-02-01 00:15:00-05:00
+2022-08-29 20:57:52,786: root: INFO: MachineLearningCrypto : Executing the before_starting_trading lifecycle method
+2022-08-29 20:57:52,791: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 20:57:52,796: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 20:57:52,796: root: INFO: Current backtesting datetime 2021-02-01 00:30:00-05:00
+2022-08-29 20:57:52,799: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 20:57:52,799: root: INFO: Getting historical prices for BTC, 3040 bars, minute

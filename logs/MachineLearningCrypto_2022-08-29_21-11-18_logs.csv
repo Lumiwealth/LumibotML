@@ -1,0 +1,308 @@
+2022-08-29 21:11:22,265: root: INFO: MachineLearningCrypto : Executing the initialize lifecycle method
+2022-08-29 21:11:22,340: root: INFO: Current backtesting datetime 2021-02-01 00:00:00-05:00
+2022-08-29 21:11:22,341: root: INFO: MachineLearningCrypto : Executing the before_starting_trading lifecycle method
+2022-08-29 21:11:22,346: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:11:22,347: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:12:05,380: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:05,380: root: INFO: Current backtesting datetime 2021-02-01 00:15:00-05:00
+2022-08-29 21:12:05,385: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:05,389: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:05,390: root: INFO: Current backtesting datetime 2021-02-01 00:30:00-05:00
+2022-08-29 21:12:05,394: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:05,395: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:12:19,821: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:19,822: root: INFO: Current backtesting datetime 2021-02-01 00:45:00-05:00
+2022-08-29 21:12:19,831: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:19,841: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:19,841: root: INFO: Current backtesting datetime 2021-02-01 01:00:00-05:00
+2022-08-29 21:12:19,849: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:19,849: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:12:33,278: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:33,279: root: INFO: Current backtesting datetime 2021-02-01 01:15:00-05:00
+2022-08-29 21:12:33,286: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:33,291: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:33,291: root: INFO: Current backtesting datetime 2021-02-01 01:30:00-05:00
+2022-08-29 21:12:33,298: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:33,298: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:12:47,631: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:47,632: root: INFO: Current backtesting datetime 2021-02-01 01:45:00-05:00
+2022-08-29 21:12:47,641: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:47,646: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:12:47,646: root: INFO: Current backtesting datetime 2021-02-01 02:00:00-05:00
+2022-08-29 21:12:47,654: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:12:47,654: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:13:00,788: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:00,789: root: INFO: Current backtesting datetime 2021-02-01 02:15:00-05:00
+2022-08-29 21:13:00,796: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:00,801: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:00,801: root: INFO: Current backtesting datetime 2021-02-01 02:30:00-05:00
+2022-08-29 21:13:00,807: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:00,807: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:13:15,415: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:15,416: root: INFO: Current backtesting datetime 2021-02-01 02:45:00-05:00
+2022-08-29 21:13:15,428: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:15,438: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:15,438: root: INFO: Current backtesting datetime 2021-02-01 03:00:00-05:00
+2022-08-29 21:13:15,452: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:15,452: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:13:34,234: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:34,235: root: INFO: Current backtesting datetime 2021-02-01 03:15:00-05:00
+2022-08-29 21:13:34,244: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:34,249: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:34,249: root: INFO: Current backtesting datetime 2021-02-01 03:30:00-05:00
+2022-08-29 21:13:34,257: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:34,257: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:13:50,230: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:50,231: root: INFO: Current backtesting datetime 2021-02-01 03:45:00-05:00
+2022-08-29 21:13:50,240: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:50,245: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:13:50,245: root: INFO: Current backtesting datetime 2021-02-01 04:00:00-05:00
+2022-08-29 21:13:50,254: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:13:50,255: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:14:02,328: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:02,328: root: INFO: Current backtesting datetime 2021-02-01 04:15:00-05:00
+2022-08-29 21:14:02,338: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:02,344: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:02,344: root: INFO: Current backtesting datetime 2021-02-01 04:30:00-05:00
+2022-08-29 21:14:02,353: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:02,354: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:14:15,283: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:15,283: root: INFO: Current backtesting datetime 2021-02-01 04:45:00-05:00
+2022-08-29 21:14:15,296: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:15,303: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:15,303: root: INFO: Current backtesting datetime 2021-02-01 05:00:00-05:00
+2022-08-29 21:14:15,313: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:15,313: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:14:28,721: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:28,721: root: INFO: Current backtesting datetime 2021-02-01 05:15:00-05:00
+2022-08-29 21:14:28,732: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:28,737: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:28,737: root: INFO: Current backtesting datetime 2021-02-01 05:30:00-05:00
+2022-08-29 21:14:28,747: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:28,747: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:14:42,188: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:42,188: root: INFO: Current backtesting datetime 2021-02-01 05:45:00-05:00
+2022-08-29 21:14:42,202: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:42,208: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:42,209: root: INFO: Current backtesting datetime 2021-02-01 06:00:00-05:00
+2022-08-29 21:14:42,225: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:42,225: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:14:57,258: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:57,259: root: INFO: Current backtesting datetime 2021-02-01 06:15:00-05:00
+2022-08-29 21:14:57,298: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:57,303: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:14:57,303: root: INFO: Current backtesting datetime 2021-02-01 06:30:00-05:00
+2022-08-29 21:14:57,314: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:14:57,314: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:15:19,303: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:15:19,304: root: INFO: Current backtesting datetime 2021-02-01 06:45:00-05:00
+2022-08-29 21:15:19,319: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:15:19,325: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:15:19,325: root: INFO: Current backtesting datetime 2021-02-01 07:00:00-05:00
+2022-08-29 21:15:19,337: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:15:19,338: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:15:32,260: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:15:32,260: root: INFO: Current backtesting datetime 2021-02-01 07:15:00-05:00
+2022-08-29 21:15:32,273: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:15:32,278: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:15:32,278: root: INFO: Current backtesting datetime 2021-02-01 07:30:00-05:00
+2022-08-29 21:15:32,291: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:15:32,291: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:15:45,697: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:15:45,697: root: INFO: Current backtesting datetime 2021-02-01 07:45:00-05:00
+2022-08-29 21:15:45,710: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:15:45,715: root: INFO: MachineLearningCrypto : [34mSleeping for 900 seconds[0m
+2022-08-29 21:15:45,716: root: INFO: Current backtesting datetime 2021-02-01 08:00:00-05:00
+2022-08-29 21:15:45,727: root: INFO: MachineLearningCrypto : Executing the on_trading_iteration lifecycle method
+2022-08-29 21:15:45,728: root: INFO: Getting historical prices for BTC, 3040 bars, minute
+2022-08-29 21:15:58,746: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:15:58,751: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:15:58,893: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:15:58,923: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:15:58,924: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:15:58,924: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:15:58,924: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:15:58,925: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:15:58,925: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:15:58,925: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:15:58,927: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:15:58,927: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:15:58,936: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:15:58,976: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:15:58,977: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:15:58,979: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:15:58,980: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:15:58,980: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:15:58,980: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:15:58,980: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:15:59,406: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:15:59,407: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:15:59,408: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:15:59,408: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:15:59,408: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:15:59,408: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:15:59,410: root: INFO: Trading finished
+2022-08-29 21:15:59,738: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:15:59,738: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:15:59,738: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:15:59,739: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:15:59,739: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:15:59,739: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:15:59,740: root: INFO: Trading finished
+2022-08-29 21:16:00,843: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:00,843: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:00,849: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:00,870: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:00,872: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:00,872: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:00,872: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:00,873: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:00,873: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:00,877: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:01,089: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:01,089: root: INFO: Current backtesting datetime 2021-02-01 23:54:00-05:00
+2022-08-29 21:16:01,089: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:01,093: root: INFO: Current backtesting datetime 2021-02-01 23:59:00-05:00
+2022-08-29 21:16:01,101: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:01,111: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:01,111: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:01,112: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:01,112: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:01,113: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:01,113: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:01,113: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:01,239: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:01,239: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:01,241: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:01,245: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:01,245: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:01,245: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:01,245: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:01,246: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:01,246: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:01,246: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:01,369: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:01,370: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:01,370: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:01,370: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:01,370: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:01,370: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:01,370: root: INFO: Trading finished
+2022-08-29 21:16:01,396: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:01,397: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:01,397: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:01,397: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:01,397: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:01,397: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:01,398: root: INFO: Trading finished
+2022-08-29 21:16:01,419: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:01,420: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:01,423: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:01,434: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:01,434: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:01,434: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:01,435: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:01,435: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:01,435: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:01,435: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:01,554: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:01,554: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:01,555: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:01,555: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:01,555: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:01,555: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:01,555: root: INFO: Trading finished
+2022-08-29 21:16:01,599: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:01,599: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:01,602: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:01,613: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:01,613: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:01,613: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:01,614: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:01,614: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:01,614: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:01,614: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:01,759: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:01,759: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:01,759: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:01,759: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:01,759: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:01,759: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:01,760: root: INFO: Trading finished
+2022-08-29 21:16:01,762: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:01,762: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:01,762: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:01,762: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:01,762: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:01,762: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:01,763: root: INFO: Trading finished
+2022-08-29 21:16:01,767: backtest_stats: INFO: Backtest took 0:04:39.512056 for a speed of 0.000
+2022-08-29 21:16:01,778: root: INFO: There were no trades in this backtest.
+2022-08-29 21:16:01,791: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:01,792: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:01,796: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:01,808: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:01,808: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:01,809: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:01,809: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:01,809: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:01,809: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:01,809: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:01,975: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:01,975: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:01,979: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:01,990: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:01,990: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:01,990: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:01,991: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:01,991: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:01,991: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:01,991: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:02,138: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:02,138: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:02,139: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:02,139: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:02,139: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:02,139: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:02,139: root: INFO: Trading finished
+2022-08-29 21:16:02,148: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:02,148: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:02,148: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:02,148: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:02,148: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:02,148: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:02,148: root: INFO: Trading finished
+2022-08-29 21:16:02,180: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:02,180: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:02,184: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:02,193: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:02,193: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:02,194: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:02,194: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:02,194: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:02,194: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:02,194: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:02,375: root: INFO: MachineLearningCrypto : Executing the on_abrupt_closing event method
+2022-08-29 21:16:02,375: root: WARNING: Strategy MachineLearningCrypto: sell all
+2022-08-29 21:16:02,376: root: INFO: MachineLearningCrypto : --- MachineLearningCrypto Strategy Performance  ---
+2022-08-29 21:16:02,380: root: INFO: MachineLearningCrypto : Total Return: 0.00%
+2022-08-29 21:16:02,381: root: INFO: MachineLearningCrypto : CAGR 0.00%
+2022-08-29 21:16:02,381: root: INFO: MachineLearningCrypto : Volatility 0.00%
+2022-08-29 21:16:02,381: root: INFO: MachineLearningCrypto : Sharpe 0.00
+2022-08-29 21:16:02,381: root: INFO: MachineLearningCrypto : Max Drawdown 0.00% on 2021-02-01
+2022-08-29 21:16:02,381: root: INFO: MachineLearningCrypto : RoMaD 0.00%
+2022-08-29 21:16:02,381: root: INFO: MachineLearningCrypto : --- BTC-USD Benchmark Performance ---
+2022-08-29 21:16:02,467: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:02,467: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:02,467: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:02,467: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:02,467: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:02,467: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:02,467: root: INFO: Trading finished
+2022-08-29 21:16:02,477: root: INFO: MachineLearningCrypto : Total Return: 71.57%
+2022-08-29 21:16:02,477: root: INFO: MachineLearningCrypto : BTC-USD CAGR 1,912,017.22%
+2022-08-29 21:16:02,477: root: INFO: MachineLearningCrypto : BTC-USD Volatility 94.61%
+2022-08-29 21:16:02,478: root: INFO: MachineLearningCrypto : BTC-USD Sharpe 20,209.60
+2022-08-29 21:16:02,478: root: INFO: MachineLearningCrypto : BTC-USD Max Drawdown 3.36% on 2021-02-10
+2022-08-29 21:16:02,478: root: INFO: MachineLearningCrypto : BTC-USD RoMaD 56,863,158.43%
+2022-08-29 21:16:02,478: root: INFO: Trading finished

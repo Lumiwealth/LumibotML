@@ -1,0 +1,73 @@
+2022-08-22 16:43:58,544: root: INFO: MachineLearning : Executing the initialize lifecycle method
+2022-08-22 16:43:58,567: root: INFO: Current backtesting datetime 2021-08-02 09:18:00-04:00
+2022-08-22 16:43:58,567: root: INFO: MachineLearning : Executing the before_starting_trading lifecycle method
+2022-08-22 16:43:58,572: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:43:58,573: root: INFO: MachineLearning : Executing the on_trading_iteration lifecycle method
+2022-08-22 16:43:58,581: root: INFO: Getting historical prices for SRNE, 30040 bars, minute
+2022-08-22 16:43:58,855: root: INFO: MachineLearning : data
+2022-08-22 16:43:58,934: root: INFO: MachineLearning :                            open  high   low  close  volume  ...  ichimoku_b  ichimoku_base  ichimoku_conversion       stoch      kama
+datetime                                                    ...                                                                      
+2021-04-14 10:41:00-04:00  7.54  7.55  7.54   7.55   300.0  ...       7.445         7.4450                7.525  100.000000  7.506846
+2021-04-14 10:42:00-04:00  7.52  7.52  7.51   7.51   200.0  ...       7.445         7.4450                7.525   55.555556  7.506992
+2021-04-14 10:43:00-04:00  7.51  7.51  7.51   7.51   300.0  ...       7.445         7.4550                7.525   55.555556  7.507107
+2021-04-14 10:44:00-04:00  7.55  7.55  7.55   7.55   300.0  ...       7.445         7.4675                7.525  100.000000  7.507753
+2021-04-14 10:45:00-04:00  7.55  7.55  7.55   7.55   304.0  ...       7.445         7.4950                7.525  100.000000  7.510389
+...                         ...   ...   ...    ...     ...  ...         ...            ...                  ...         ...       ...
+2021-04-16 12:17:00-04:00  7.34  7.34  7.34   7.34     0.0  ...       7.370         7.3650                7.340   20.000000  7.340029
+2021-04-16 12:18:00-04:00  7.34  7.34  7.34   7.34   200.0  ...       7.370         7.3600                7.335   25.000000  7.340025
+2021-04-16 12:19:00-04:00  7.34  7.34  7.34   7.34     0.0  ...       7.370         7.3600                7.335   25.000000  7.340022
+2021-04-16 12:20:00-04:00  7.34  7.34  7.34   7.34     0.0  ...       7.370         7.3600                7.335   25.000000  7.340012
+2021-04-16 12:21:00-04:00  7.34  7.34  7.34   7.34   100.0  ...       7.370         7.3600                7.335   25.000000  7.340007
+
+[881 rows x 25 columns]
+2022-08-22 16:44:15,440: root: INFO: MachineLearning :                            open  high   low  close  volume  ...  ichimoku_base  ichimoku_conversion       stoch      kama  close_future
+datetime                                                    ...                                                                        
+2021-04-14 10:41:00-04:00  7.54  7.55  7.54   7.55   300.0  ...         7.4450                7.525  100.000000  7.506846          7.53
+2021-04-14 10:42:00-04:00  7.52  7.52  7.51   7.51   200.0  ...         7.4450                7.525   55.555556  7.506992          7.53
+2021-04-14 10:43:00-04:00  7.51  7.51  7.51   7.51   300.0  ...         7.4550                7.525   55.555556  7.507107          7.48
+2021-04-14 10:44:00-04:00  7.55  7.55  7.55   7.55   300.0  ...         7.4675                7.525  100.000000  7.507753          7.48
+2021-04-14 10:45:00-04:00  7.55  7.55  7.55   7.55   304.0  ...         7.4950                7.525  100.000000  7.510389          7.48
+...                         ...   ...   ...    ...     ...  ...            ...                  ...         ...       ...           ...
+2021-04-16 12:02:00-04:00  7.38  7.38  7.38   7.38     0.0  ...         7.3900                7.380   33.333333  7.381894          7.34
+2021-04-16 12:03:00-04:00  7.38  7.38  7.38   7.38     0.0  ...         7.3900                7.380   33.333333  7.381052          7.34
+2021-04-16 12:04:00-04:00  7.38  7.38  7.38   7.38     0.0  ...         7.3900                7.380   33.333333  7.380584          7.34
+2021-04-16 12:05:00-04:00  7.35  7.35  7.35   7.35   201.0  ...         7.3800                7.370    0.000000  7.366991          7.34
+2021-04-16 12:06:00-04:00  7.35  7.35  7.35   7.35     0.0  ...         7.3800                7.370    0.000000  7.359440          7.34
+
+[866 rows x 26 columns]
+2022-08-22 16:44:18,807: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,808: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,811: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,811: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,817: root: INFO: MachineLearning : [34mSleeping for 900 seconds[0m
+2022-08-22 16:44:18,818: root: INFO: Current backtesting datetime 2021-08-02 09:33:00-04:00
+2022-08-22 16:44:18,819: root: INFO: [32mFilled Transaction: sell 2366 of SRNE at 8.27000000 USD per share[0m
+2022-08-22 16:44:18,819: root: INFO: market order of | 2366 SRNE sell | with status unprocessed was filled
+2022-08-22 16:44:18,825: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,825: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,825: root: INFO: MachineLearning : Executing the on_filled_order event method
+2022-08-22 16:44:18,826: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,827: root: INFO: MachineLearning : Executing the on_trading_iteration lifecycle method
+2022-08-22 16:44:18,827: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,827: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,833: root: INFO: MachineLearning : [34mSleeping for 900 seconds[0m
+2022-08-22 16:44:18,833: root: INFO: Current backtesting datetime 2021-08-02 09:48:00-04:00
+2022-08-22 16:44:18,833: asyncio: ERROR: Unable to get balances (cash, portfolio value, etc) from broker. Please check your broker and your broker configuration.
+2022-08-22 16:44:18,835: root: INFO: MachineLearning : Executing the on_trading_iteration lifecycle method
+2022-08-22 16:44:18,835: root: INFO: Getting historical prices for SRNE, 30040 bars, minute
+2022-08-22 16:44:19,119: root: INFO: MachineLearning : data
+2022-08-22 16:44:19,198: root: INFO: MachineLearning :                             open   high   low  close  volume  ...  ichimoku_b  ichimoku_base  ichimoku_conversion      stoch      kama
+datetime                                                      ...                                                                     
+2021-04-14 11:11:00-04:00  7.410  7.410  7.39   7.39  1400.0  ...        7.46          7.460               7.4300   0.000000  7.409346
+2021-04-14 11:12:00-04:00  7.390  7.400  7.39   7.40  1700.0  ...        7.46          7.460               7.4300  11.111111  7.406856
+2021-04-14 11:13:00-04:00  7.400  7.420  7.40   7.42  2330.0  ...        7.46          7.460               7.4300  33.333333  7.408082
+2021-04-14 11:14:00-04:00  7.425  7.425  7.41   7.41  1365.0  ...        7.46          7.460               7.4300  22.222222  7.408301
+2021-04-14 11:15:00-04:00  7.400  7.400  7.39   7.39   627.0  ...        7.46          7.460               7.4225   0.000000  7.405536
+...                          ...    ...   ...    ...     ...  ...         ...            ...                  ...        ...       ...
+2021-04-16 12:17:00-04:00  7.340  7.340  7.34   7.34     0.0  ...        7.37          7.365               7.3400  20.000000  7.340029
+2021-04-16 12:18:00-04:00  7.340  7.340  7.34   7.34   200.0  ...        7.37          7.360               7.3350  25.000000  7.340025
+2021-04-16 12:19:00-04:00  7.340  7.340  7.34   7.34     0.0  ...        7.37          7.360               7.3350  25.000000  7.340022
+2021-04-16 12:20:00-04:00  7.340  7.340  7.34   7.34     0.0  ...        7.37          7.360               7.3350  25.000000  7.340012
+2021-04-16 12:21:00-04:00  7.340  7.340  7.34   7.34   100.0  ...        7.37          7.360               7.3350  25.000000  7.340007
+
+[851 rows x 25 columns]
