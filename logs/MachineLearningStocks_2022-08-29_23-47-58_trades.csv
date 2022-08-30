@@ -1,0 +1,11 @@
+time,strategy,exchange,symbol,side,sec_type,type,status,price,filled_quantity,multiplier
+2021-08-02 09:33:00-04:00,MachineLearningStocks,SMART,SRNE,sell,stock,market,fill,8.27,2366,1
+2021-08-03 09:14:00-04:00,MachineLearningStocks,SMART,SRNE,buy,stock,market,fill,8.4,2366,1
+2021-08-03 09:59:00-04:00,MachineLearningStocks,SMART,SRNE,buy,stock,market,fill,8.15,2428,1
+2021-08-04 09:30:00-04:00,MachineLearningStocks,SMART,SRNE,sell,stock,market,fill,8.12,2428,1
+2021-08-05 09:46:00-04:00,MachineLearningStocks,SMART,SRNE,buy,stock,market,fill,8.14,2468,1
+2021-08-05 15:56:00-04:00,MachineLearningStocks,SMART,SRNE,buy,stock,market,canceled,,,1
+2021-08-06 09:30:00-04:00,MachineLearningStocks,SMART,SRNE,sell,stock,market,fill,8.53,2468,1
+2021-08-09 15:55:00-04:00,MachineLearningStocks,SMART,SRNE,buy,stock,market,canceled,,,1
+2021-08-10 09:45:00-04:00,MachineLearningStocks,SMART,SRNE,buy,stock,market,fill,8.68,2306,1
+2021-08-10 15:55:00-04:00,MachineLearningStocks,SMART,SRNE,sell,stock,market,canceled,,,1
