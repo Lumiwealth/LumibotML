@@ -1,3 +1,4 @@
+import os
 from datetime import datetime, timedelta
 
 import numpy as np
@@ -30,12 +31,11 @@ class MachineLearningCrypto(Strategy):
     """
 
     parameters = {
-        "asset": Asset(symbol="BTC", asset_type="crypto"),  # used to be symbol
         "compute_frequency": 15,
         "lookback_period": 200,  # Increasing this will improve accuracy but will take longer to train
-        "pct_portfolio_per_trade": 0.35,
-        "price_change_threshold_up": 0.015,
-        "price_change_threshold_down": -0.015,
+        "pct_portfolio_per_trade": 0.50,
+        "price_change_threshold_up": 0.003,
+        "price_change_threshold_down": -0.003,
         "max_pct_portfolio_long": 1,
         "max_pct_portfolio_short": 0.3,
         "take_profit_factor": 1,
@@ -60,6 +60,9 @@ class MachineLearningCrypto(Strategy):
         self.last_price = None
         self.asset_value = None
         self.shares_owned = None
+        self.cache_df = None
+
+        self.set_market("24/7")
 
         self.model = AutoTS(
             forecast_length=self.parameters["compute_frequency"],
@@ -89,15 +92,15 @@ class MachineLearningCrypto(Strategy):
         stop_loss_factor = self.parameters["stop_loss_factor"]
         ml_model_type = self.parameters["ml_model_type"]
 
-        current_datetime = self.get_datetime()
+        dt = self.get_datetime()
         time_since_last_compute = None
         if self.last_compute is not None:
-            time_since_last_compute = current_datetime - self.last_compute
+            time_since_last_compute = dt - self.last_compute
 
-        if time_since_last_compute is None or time_since_last_compute > timedelta(
+        if time_since_last_compute is None or time_since_last_compute >= timedelta(
             minutes=compute_frequency
         ):
-            self.last_compute = current_datetime
+            self.last_compute = dt
 
             # Get the data
             data = self.get_data(
@@ -115,30 +118,67 @@ class MachineLearningCrypto(Strategy):
                 self.shares_owned = float(position.quantity)
             self.asset_value = self.shares_owned * self.last_price
 
-            data["close_future"] = data["close"].shift(-compute_frequency)
-            data_train = data.dropna()
+            # Reset the prediction
+            self.prediction = None
+            directory = "cache"
+            cache_filepath = (
+                f"{directory}/{ml_model_type}_{compute_frequency}_{asset.symbol}.csv"
+            )
+            if self.is_backtesting:
+                # Check if file exists, if not then create it
+                if os.path.isfile(cache_filepath):
+                    self.log_message("File exists")
+                    if self.cache_df is None:
+                        self.cache_df = pd.read_csv(cache_filepath)
+                        self.cache_df["datetime"] = pd.to_datetime(
+                            self.cache_df["datetime"]
+                        )
+                        self.cache_df = self.cache_df.set_index("datetime")
 
-            if ml_model_type == "autots":
-                self.model = self.model.fit(data_train)
-                predictions = self.model.predict().forecast
+                    # check if the current datetime exists
+                    # current_prediction = self.cache_df.loc[dt]
+                    current_prediction = self.cache_df.loc[self.cache_df.index == dt]
 
-                # Our model's preduicted price
-                self.prediction = predictions["close"][0]
-            else:
-                # Predict
-                rf = RandomForestRegressor().fit(
-                    X=data_train.drop(["close_future", "symbol"], axis=1),
-                    y=data_train["close_future"],
-                )
+                    if current_prediction is not None and len(current_prediction) == 1:
+                        self.prediction = current_prediction["prediction"][0]
+                else:
+                    if not os.path.exists(directory):
+                        os.mkdir(directory)
+                    self.cache_df = pd.DataFrame(columns=["prediction"])
+                    self.cache_df.index.name = "datetime"
 
-                # Our current situation
-                last_row = data.iloc[[-1]]
+            if self.prediction is None:
+                # code to predict
+                data["close_future"] = data["close"].shift(-compute_frequency)
+                data_train = data.dropna()
 
-                X_test = last_row.drop(["close_future", "symbol"], axis=1)
-                predictions = rf.predict(X_test)
+                if ml_model_type == "autots":
+                    self.model = self.model.fit(data_train)
+                    predictions = self.model.predict().forecast
 
-                # Our model's preduicted price
-                self.prediction = predictions[0]
+                    # Our model's preduicted price
+                    self.prediction = predictions["close"][0]
+                elif ml_model_type == "sklearn":
+                    # Predict
+                    rf = RandomForestRegressor().fit(
+                        X=data_train.drop(["close_future", "symbol"], axis=1),
+                        y=data_train["close_future"],
+                    )
+
+                    # Our current situation
+                    last_row = data.iloc[[-1]]
+
+                    X_test = last_row.drop(["close_future", "symbol"], axis=1)
+                    predictions = rf.predict(X_test)
+
+                    # Our model's preduicted price
+                    self.prediction = predictions[0]
+
+                df = pd.DataFrame([self.prediction], columns=["prediction"], index=[dt])
+                df.index.name = "datetime"
+                self.cache_df = pd.concat([self.cache_df, df])
+                self.cache_df.sort_index(inplace=True)
+                self.cache_df.to_csv(cache_filepath)
 
             # Calculate the percentage change that the model predicts
             expected_price_change = self.prediction - self.last_price
@@ -312,7 +352,7 @@ if __name__ == "__main__":
         ####
 
         backtesting_start = datetime(2021, 2, 19)
-        backtesting_end = datetime(2021, 2, 20)
+        backtesting_end = datetime(2021, 6, 1)
         # backtesting_end = datetime(2021, 3, 19)
 
         # Set Asset and Quote
