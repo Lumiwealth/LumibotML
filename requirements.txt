@@ -4,3 +4,4 @@ sklearn
 google-cloud-secret-manager==1.0.0
 tqdm
 #alpaca-py
+autots

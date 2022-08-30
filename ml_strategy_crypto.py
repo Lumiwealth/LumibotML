@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 import numpy as np
 import pandas as pd
 import ta
+from autots import AutoTS, load_daily
 from lumibot.backtesting import PandasDataBacktesting
 from lumibot.brokers import Alpaca
 from lumibot.entities import Asset, Data
@@ -59,6 +60,20 @@ class MachineLearningCrypto(Strategy):
         self.asset_value = None
         self.shares_owned = None
 
+        self.model = AutoTS(
+            forecast_length=self.parameters["compute_frequency"],
+            frequency="infer",
+            prediction_interval=0.9,
+            ensemble=None,
+            model_list="superfast",  # "superfast", "default", "fast_parallel"
+            transformer_list="superfast",  # "superfast",
+            drop_most_recent=1,
+            max_generations=2,
+            num_validations=2,
+            validation_method="backwards",
+            verbose=False,
+        )
+
     def on_trading_iteration(self):
         # Get parameters for this iteration
         asset = self.parameters["asset"]
@@ -98,24 +113,12 @@ class MachineLearningCrypto(Strategy):
                 self.shares_owned = float(position.quantity)
             self.asset_value = self.shares_owned * self.last_price
 
-            # Add the value that we are trying to predict
-            data["close_future"] = data["close"].shift(-compute_frequency)
             data_train = data.dropna()
-
-            # Train the model
-            rf = RandomForestRegressor().fit(
-                X=data_train.drop(["close_future", "symbol"], axis=1),
-                y=data_train["close_future"],
-            )
-
-            # Our current situation
-            last_row = data.iloc[[-1]]
-
-            X_test = last_row.drop(["close_future", "symbol"], axis=1)
-            predictions = rf.predict(X_test)
+            self.model = self.model.fit(data_train)
+            predictions = self.model.predict().forecast
 
             # Our model's preduicted price
-            self.prediction = predictions[0]
+            self.prediction = predictions["close"][0]
 
             # Calculate the percentage change that the model predicts
             expected_price_change = self.prediction - self.last_price
@@ -288,8 +291,8 @@ if __name__ == "__main__":
         # Backtest
         ####
 
-        backtesting_start = datetime(2021, 2, 1)
-        backtesting_end = datetime(2021, 2, 21)
+        backtesting_start = datetime(2021, 2, 19)
+        backtesting_end = datetime(2021, 3, 19)
 
         # Set Asset and Quote
         asset = Asset(symbol="BTC", asset_type="crypto")
