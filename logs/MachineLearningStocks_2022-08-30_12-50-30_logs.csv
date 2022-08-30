@@ -43195,3 +43195,508 @@
 2022-08-30 16:28:23,857: root: INFO: Current backtesting datetime 2021-06-30 11:31:00-05:00
 2022-08-30 16:28:23,859: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
 2022-08-30 16:28:23,859: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:23,898: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:23,920: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:23,920: root: INFO: Current backtesting datetime 2021-06-30 11:46:00-05:00
+2022-08-30 16:28:23,921: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:23,922: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:23,965: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:27,278: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:27,279: root: INFO: Current backtesting datetime 2021-06-30 12:01:00-05:00
+2022-08-30 16:28:27,280: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:27,280: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:27,323: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:27,347: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:27,347: root: INFO: Current backtesting datetime 2021-06-30 12:16:00-05:00
+2022-08-30 16:28:27,349: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:27,349: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:27,396: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:33,208: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:33,210: root: INFO: Current backtesting datetime 2021-06-30 12:31:00-05:00
+2022-08-30 16:28:33,220: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:33,222: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:33,338: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:33,372: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:33,373: root: INFO: Current backtesting datetime 2021-06-30 12:46:00-05:00
+2022-08-30 16:28:33,376: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:33,376: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:33,452: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:39,513: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:39,513: root: INFO: Current backtesting datetime 2021-06-30 13:01:00-05:00
+2022-08-30 16:28:39,515: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:39,515: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:39,576: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:39,603: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:39,603: root: INFO: Current backtesting datetime 2021-06-30 13:16:00-05:00
+2022-08-30 16:28:39,605: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:39,605: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:39,659: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:43,334: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:43,334: root: INFO: Current backtesting datetime 2021-06-30 13:31:00-05:00
+2022-08-30 16:28:43,337: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:43,337: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:43,379: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:43,401: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:43,401: root: INFO: Current backtesting datetime 2021-06-30 13:46:00-05:00
+2022-08-30 16:28:43,403: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:43,403: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:43,445: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:46,595: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:46,595: root: INFO: Current backtesting datetime 2021-06-30 14:01:00-05:00
+2022-08-30 16:28:46,600: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:46,600: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:46,642: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:46,663: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:46,663: root: INFO: Current backtesting datetime 2021-06-30 14:16:00-05:00
+2022-08-30 16:28:46,664: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:46,665: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:46,707: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:49,876: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:49,876: root: INFO: Current backtesting datetime 2021-06-30 14:31:00-05:00
+2022-08-30 16:28:49,877: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:49,878: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:49,917: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:49,939: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:49,939: root: INFO: Current backtesting datetime 2021-06-30 14:46:00-05:00
+2022-08-30 16:28:49,941: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:49,941: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:49,982: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:53,001: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:53,001: root: INFO: Current backtesting datetime 2021-06-30 15:01:00-05:00
+2022-08-30 16:28:53,002: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:53,002: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:53,039: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:53,059: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:53,059: root: INFO: Current backtesting datetime 2021-06-30 15:16:00-05:00
+2022-08-30 16:28:53,061: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:53,061: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:53,098: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:56,154: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:56,154: root: INFO: Current backtesting datetime 2021-06-30 15:31:00-05:00
+2022-08-30 16:28:56,156: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:56,156: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:56,198: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:28:56,219: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:28:56,220: root: INFO: Current backtesting datetime 2021-06-30 15:46:00-05:00
+2022-08-30 16:28:56,221: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:28:56,221: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:28:56,264: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:00,863: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:00,864: root: INFO: Current backtesting datetime 2021-06-30 16:01:00-05:00
+2022-08-30 16:29:00,866: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:00,867: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:00,910: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:00,934: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:00,934: root: INFO: Current backtesting datetime 2021-06-30 16:16:00-05:00
+2022-08-30 16:29:00,935: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:00,935: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:00,977: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:04,641: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:04,641: root: INFO: Current backtesting datetime 2021-06-30 16:31:00-05:00
+2022-08-30 16:29:04,642: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:04,642: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:04,684: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:04,707: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:04,707: root: INFO: Current backtesting datetime 2021-06-30 16:46:00-05:00
+2022-08-30 16:29:04,708: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:04,708: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:04,750: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:07,972: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:07,972: root: INFO: Current backtesting datetime 2021-06-30 17:01:00-05:00
+2022-08-30 16:29:07,973: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:07,973: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:08,011: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:08,031: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:08,031: root: INFO: Current backtesting datetime 2021-06-30 17:16:00-05:00
+2022-08-30 16:29:08,033: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:08,033: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:08,073: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:11,104: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:11,104: root: INFO: Current backtesting datetime 2021-06-30 17:31:00-05:00
+2022-08-30 16:29:11,107: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:11,107: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:11,151: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:11,173: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:11,173: root: INFO: Current backtesting datetime 2021-06-30 17:46:00-05:00
+2022-08-30 16:29:11,175: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:11,175: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:11,219: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:14,180: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:14,180: root: INFO: Current backtesting datetime 2021-06-30 18:01:00-05:00
+2022-08-30 16:29:14,182: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:14,182: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:14,230: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:14,252: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:14,252: root: INFO: Current backtesting datetime 2021-06-30 18:16:00-05:00
+2022-08-30 16:29:14,254: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:14,254: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:14,298: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:17,268: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:17,268: root: INFO: Current backtesting datetime 2021-06-30 18:31:00-05:00
+2022-08-30 16:29:17,271: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:17,271: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:17,311: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:17,333: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:17,333: root: INFO: Current backtesting datetime 2021-06-30 18:46:00-05:00
+2022-08-30 16:29:17,335: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:17,335: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:17,374: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:20,338: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:20,338: root: INFO: Current backtesting datetime 2021-06-30 19:01:00-05:00
+2022-08-30 16:29:20,359: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:20,359: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:20,401: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:20,424: root: INFO: Current backtesting datetime 2021-06-30 18:56:00-05:00
+2022-08-30 16:29:20,424: root: INFO: MachineLearningStocks : Executing the before_market_closes lifecycle method
+2022-08-30 16:29:20,425: root: INFO: Current backtesting datetime 2021-06-30 19:00:00-05:00
+2022-08-30 16:29:20,425: root: INFO: MachineLearningStocks : Executing the after_market_closes lifecycle method
+2022-08-30 16:29:20,426: root: INFO: Current backtesting datetime 2021-07-01 03:01:00-05:00
+2022-08-30 16:29:20,426: root: INFO: MachineLearningStocks : Executing the before_starting_trading lifecycle method
+2022-08-30 16:29:20,428: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:20,428: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:20,464: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:20,483: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:20,483: root: INFO: Current backtesting datetime 2021-07-01 03:16:00-05:00
+2022-08-30 16:29:20,484: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:20,484: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:20,519: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:23,558: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:23,558: root: INFO: Current backtesting datetime 2021-07-01 03:31:00-05:00
+2022-08-30 16:29:23,560: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:23,560: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:23,598: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:23,619: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:23,619: root: INFO: Current backtesting datetime 2021-07-01 03:46:00-05:00
+2022-08-30 16:29:23,621: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:23,621: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:23,659: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:26,752: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:26,752: root: INFO: Current backtesting datetime 2021-07-01 04:01:00-05:00
+2022-08-30 16:29:26,754: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:26,754: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:26,790: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:26,809: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:26,810: root: INFO: Current backtesting datetime 2021-07-01 04:16:00-05:00
+2022-08-30 16:29:26,812: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:26,812: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:26,848: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:29,939: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:29,939: root: INFO: Current backtesting datetime 2021-07-01 04:31:00-05:00
+2022-08-30 16:29:29,941: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:29,941: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:29,978: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:29,998: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:29,998: root: INFO: Current backtesting datetime 2021-07-01 04:46:00-05:00
+2022-08-30 16:29:30,000: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:30,000: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:30,040: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:34,021: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:34,021: root: INFO: Current backtesting datetime 2021-07-01 05:01:00-05:00
+2022-08-30 16:29:34,023: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:34,023: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:34,078: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:34,105: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:34,105: root: INFO: Current backtesting datetime 2021-07-01 05:16:00-05:00
+2022-08-30 16:29:34,109: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:34,109: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:34,166: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:37,812: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:37,812: root: INFO: Current backtesting datetime 2021-07-01 05:31:00-05:00
+2022-08-30 16:29:37,814: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:37,814: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:37,854: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:37,876: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:37,876: root: INFO: Current backtesting datetime 2021-07-01 05:46:00-05:00
+2022-08-30 16:29:37,878: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:37,878: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:37,917: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:41,143: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:41,143: root: INFO: Current backtesting datetime 2021-07-01 06:01:00-05:00
+2022-08-30 16:29:41,145: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:41,146: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:41,200: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:41,224: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:41,224: root: INFO: Current backtesting datetime 2021-07-01 06:16:00-05:00
+2022-08-30 16:29:41,227: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:41,228: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:41,288: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:44,439: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:44,439: root: INFO: Current backtesting datetime 2021-07-01 06:31:00-05:00
+2022-08-30 16:29:44,441: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:44,441: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:44,482: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:44,504: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:44,504: root: INFO: Current backtesting datetime 2021-07-01 06:46:00-05:00
+2022-08-30 16:29:44,506: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:44,506: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:44,549: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:47,816: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:47,816: root: INFO: Current backtesting datetime 2021-07-01 07:01:00-05:00
+2022-08-30 16:29:47,818: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:47,818: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:47,865: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:47,887: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:47,887: root: INFO: Current backtesting datetime 2021-07-01 07:16:00-05:00
+2022-08-30 16:29:47,889: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:47,889: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:47,933: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:51,480: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:51,480: root: INFO: Current backtesting datetime 2021-07-01 07:31:00-05:00
+2022-08-30 16:29:51,482: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:51,482: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:51,520: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:51,540: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:51,540: root: INFO: Current backtesting datetime 2021-07-01 07:46:00-05:00
+2022-08-30 16:29:51,542: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:51,542: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:51,578: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:55,275: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:55,275: root: INFO: Current backtesting datetime 2021-07-01 08:01:00-05:00
+2022-08-30 16:29:55,276: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:55,276: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:55,314: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:55,334: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:55,334: root: INFO: Current backtesting datetime 2021-07-01 08:16:00-05:00
+2022-08-30 16:29:55,337: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:55,337: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:55,374: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:58,661: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:58,661: root: INFO: Current backtesting datetime 2021-07-01 08:31:00-05:00
+2022-08-30 16:29:58,662: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:58,662: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:58,700: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:29:58,721: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:29:58,721: root: INFO: Current backtesting datetime 2021-07-01 08:46:00-05:00
+2022-08-30 16:29:58,722: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:29:58,722: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:29:58,762: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:02,580: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:02,580: root: INFO: Current backtesting datetime 2021-07-01 09:01:00-05:00
+2022-08-30 16:30:02,581: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:02,581: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:02,623: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:02,644: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:02,644: root: INFO: Current backtesting datetime 2021-07-01 09:16:00-05:00
+2022-08-30 16:30:02,645: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:02,645: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:02,686: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:05,874: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:05,875: root: INFO: Current backtesting datetime 2021-07-01 09:31:00-05:00
+2022-08-30 16:30:05,876: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:05,877: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:05,916: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:05,936: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:05,936: root: INFO: Current backtesting datetime 2021-07-01 09:46:00-05:00
+2022-08-30 16:30:05,939: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:05,939: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:05,976: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:09,118: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:09,118: root: INFO: Current backtesting datetime 2021-07-01 10:01:00-05:00
+2022-08-30 16:30:09,120: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:09,120: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:09,157: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:09,178: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:09,178: root: INFO: Current backtesting datetime 2021-07-01 10:16:00-05:00
+2022-08-30 16:30:09,180: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:09,180: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:09,233: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:12,421: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:12,422: root: INFO: Current backtesting datetime 2021-07-01 10:31:00-05:00
+2022-08-30 16:30:12,424: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:12,425: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:12,467: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:12,489: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:12,489: root: INFO: Current backtesting datetime 2021-07-01 10:46:00-05:00
+2022-08-30 16:30:12,490: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:12,490: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:12,532: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:16,134: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:16,134: root: INFO: Current backtesting datetime 2021-07-01 11:01:00-05:00
+2022-08-30 16:30:16,136: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:16,136: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:16,180: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:16,203: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:16,203: root: INFO: Current backtesting datetime 2021-07-01 11:16:00-05:00
+2022-08-30 16:30:16,204: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:16,204: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:16,245: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:19,745: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:19,745: root: INFO: Current backtesting datetime 2021-07-01 11:31:00-05:00
+2022-08-30 16:30:19,747: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:19,747: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:19,786: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:19,808: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:19,808: root: INFO: Current backtesting datetime 2021-07-01 11:46:00-05:00
+2022-08-30 16:30:19,809: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:19,809: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:19,855: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:23,658: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:23,658: root: INFO: Current backtesting datetime 2021-07-01 12:01:00-05:00
+2022-08-30 16:30:23,660: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:23,660: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:23,699: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:23,720: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:23,720: root: INFO: Current backtesting datetime 2021-07-01 12:16:00-05:00
+2022-08-30 16:30:23,722: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:23,722: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:23,761: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:26,934: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:26,934: root: INFO: Current backtesting datetime 2021-07-01 12:31:00-05:00
+2022-08-30 16:30:26,936: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:26,936: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:26,977: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:26,998: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:26,998: root: INFO: Current backtesting datetime 2021-07-01 12:46:00-05:00
+2022-08-30 16:30:26,999: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:27,000: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:27,039: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:32,635: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:32,636: root: INFO: Current backtesting datetime 2021-07-01 13:01:00-05:00
+2022-08-30 16:30:32,638: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:32,638: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:32,717: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:32,765: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:32,765: root: INFO: Current backtesting datetime 2021-07-01 13:16:00-05:00
+2022-08-30 16:30:32,771: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:32,771: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:32,838: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:37,049: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:37,049: root: INFO: Current backtesting datetime 2021-07-01 13:31:00-05:00
+2022-08-30 16:30:37,051: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:37,051: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:37,110: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:37,134: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:37,134: root: INFO: Current backtesting datetime 2021-07-01 13:46:00-05:00
+2022-08-30 16:30:37,136: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:37,136: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:37,183: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:41,423: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:41,423: root: INFO: Current backtesting datetime 2021-07-01 14:01:00-05:00
+2022-08-30 16:30:41,424: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:41,425: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:41,477: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:41,501: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:41,501: root: INFO: Current backtesting datetime 2021-07-01 14:16:00-05:00
+2022-08-30 16:30:41,503: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:41,503: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:41,575: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:45,002: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:45,002: root: INFO: Current backtesting datetime 2021-07-01 14:31:00-05:00
+2022-08-30 16:30:45,003: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:45,003: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:45,049: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:45,075: root: INFO: stop order of | 1293 TQQQ buy | with status unprocessed was sent to broker backtesting
+2022-08-30 16:30:45,075: root: INFO: limit order of | 1293 TQQQ buy | with status unprocessed was sent to broker backtesting
+2022-08-30 16:30:45,078: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:45,079: root: INFO: Current backtesting datetime 2021-07-01 14:46:00-05:00
+2022-08-30 16:30:45,082: root: INFO: [32mFilled Transaction: sell 1293 of TQQQ at 61.08495607 USD per share[0m
+2022-08-30 16:30:45,082: root: INFO: market order of | 1293 TQQQ sell | with status unprocessed was filled
+2022-08-30 16:30:45,115: root: INFO: MachineLearningStocks : Executing the on_filled_order event method
+2022-08-30 16:30:45,116: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:45,117: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:45,247: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:49,235: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:49,235: root: INFO: Current backtesting datetime 2021-07-01 15:01:00-05:00
+2022-08-30 16:30:49,238: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:49,238: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:49,282: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:49,306: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:49,306: root: INFO: Current backtesting datetime 2021-07-01 15:16:00-05:00
+2022-08-30 16:30:49,308: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:49,308: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:49,352: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:52,534: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:52,534: root: INFO: Current backtesting datetime 2021-07-01 15:31:00-05:00
+2022-08-30 16:30:52,537: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:52,537: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:52,577: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:52,600: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:52,601: root: INFO: Current backtesting datetime 2021-07-01 15:46:00-05:00
+2022-08-30 16:30:52,602: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:52,602: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:52,642: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:55,762: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:55,762: root: INFO: Current backtesting datetime 2021-07-01 16:01:00-05:00
+2022-08-30 16:30:55,764: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:55,764: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:55,801: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:55,822: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:55,822: root: INFO: Current backtesting datetime 2021-07-01 16:16:00-05:00
+2022-08-30 16:30:55,824: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:55,824: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:55,863: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:59,191: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:59,191: root: INFO: Current backtesting datetime 2021-07-01 16:31:00-05:00
+2022-08-30 16:30:59,194: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:59,194: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:59,231: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:30:59,252: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:30:59,252: root: INFO: Current backtesting datetime 2021-07-01 16:46:00-05:00
+2022-08-30 16:30:59,256: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:30:59,256: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:30:59,294: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:02,594: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:02,595: root: INFO: Current backtesting datetime 2021-07-01 17:01:00-05:00
+2022-08-30 16:31:02,597: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:02,597: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:02,637: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:02,659: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:02,659: root: INFO: Current backtesting datetime 2021-07-01 17:16:00-05:00
+2022-08-30 16:31:02,660: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:02,660: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:02,697: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:06,036: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:06,037: root: INFO: Current backtesting datetime 2021-07-01 17:31:00-05:00
+2022-08-30 16:31:06,039: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:06,039: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:06,082: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:06,104: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:06,104: root: INFO: Current backtesting datetime 2021-07-01 17:46:00-05:00
+2022-08-30 16:31:06,106: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:06,106: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:06,144: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:09,364: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:09,364: root: INFO: Current backtesting datetime 2021-07-01 18:01:00-05:00
+2022-08-30 16:31:09,367: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:09,367: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:09,409: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:09,429: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:09,429: root: INFO: Current backtesting datetime 2021-07-01 18:16:00-05:00
+2022-08-30 16:31:09,432: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:09,432: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:09,496: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:12,716: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:12,716: root: INFO: Current backtesting datetime 2021-07-01 18:31:00-05:00
+2022-08-30 16:31:12,718: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:12,718: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:12,757: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:12,778: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:12,778: root: INFO: Current backtesting datetime 2021-07-01 18:46:00-05:00
+2022-08-30 16:31:12,780: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:12,780: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:12,820: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:16,032: root: INFO: MachineLearningStocks : [34mSleeping for 900 seconds[0m
+2022-08-30 16:31:16,032: root: INFO: Current backtesting datetime 2021-07-01 19:01:00-05:00
+2022-08-30 16:31:16,051: root: INFO: MachineLearningStocks : Executing the on_trading_iteration lifecycle method
+2022-08-30 16:31:16,051: root: INFO: Getting historical prices for TQQQ, 3040 bars, minute
+2022-08-30 16:31:16,096: root: INFO: MachineLearningStocks : File exists
+2022-08-30 16:31:16,117: root: INFO: Current backtesting datetime 2021-07-01 18:56:00-05:00
+2022-08-30 16:31:16,117: root: INFO: MachineLearningStocks : Executing the before_market_closes lifecycle method
+2022-08-30 16:31:16,118: root: INFO: Current backtesting datetime 2021-07-01 19:00:00-05:00
+2022-08-30 16:31:16,118: root: INFO: MachineLearningStocks : Executing the after_market_closes lifecycle method
+2022-08-30 16:31:16,120: root: INFO: MachineLearningStocks : Executing the on_strategy_end lifecycle method
+2022-08-30 16:31:16,416: root: INFO: MachineLearningStocks : --- MachineLearningStocks Strategy Performance  ---
+2022-08-30 16:31:16,469: root: INFO: MachineLearningStocks : Total Return: 58.22%
+2022-08-30 16:31:16,469: root: INFO: MachineLearningStocks : CAGR 156.39%
+2022-08-30 16:31:16,469: root: INFO: MachineLearningStocks : Volatility 32.18%
+2022-08-30 16:31:16,469: root: INFO: MachineLearningStocks : Sharpe 4.77
+2022-08-30 16:31:16,469: root: INFO: MachineLearningStocks : Max Drawdown 14.56% on 2021-05-13
+2022-08-30 16:31:16,469: root: INFO: MachineLearningStocks : RoMaD 1,074.08%
+2022-08-30 16:31:16,469: root: INFO: MachineLearningStocks : --- SPY Benchmark Performance ---
+2022-08-30 16:31:17,038: root: INFO: MachineLearningStocks : Total Return: 18.27%
+2022-08-30 16:31:17,039: root: INFO: MachineLearningStocks : SPY CAGR 41.39%
+2022-08-30 16:31:17,039: root: INFO: MachineLearningStocks : SPY Volatility 13.36%
+2022-08-30 16:31:17,039: root: INFO: MachineLearningStocks : SPY Sharpe 2.89
+2022-08-30 16:31:17,039: root: INFO: MachineLearningStocks : SPY Max Drawdown 4.06% on 2021-03-04
+2022-08-30 16:31:17,039: root: INFO: MachineLearningStocks : SPY RoMaD 1,019.50%
+2022-08-30 16:31:17,041: backtest_stats: INFO: Backtest took 3:40:44.156569 for a speed of 0.001
