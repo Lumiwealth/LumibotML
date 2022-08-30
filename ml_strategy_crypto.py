@@ -150,6 +150,13 @@ class MachineLearningCrypto(Strategy):
             if self.prediction is None:
                 # code to predict
                 data["close_future"] = data["close"].shift(-compute_frequency)
+                if "symbol" in data:
+                    data = data.drop(["symbol"], axis=1)
+                if "exchange" in data:
+                    data = data.drop(["exchange"], axis=1)                 
+                    
+                    
+                #print(data)
                 data_train = data.dropna()
 
                 if ml_model_type == "autots":
@@ -160,15 +167,16 @@ class MachineLearningCrypto(Strategy):
                     self.prediction = predictions["close"][0]
                 elif ml_model_type == "sklearn":
                     # Predict
+                        
                     rf = RandomForestRegressor().fit(
-                        X=data_train.drop(["close_future", "symbol"], axis=1),
+                        X=data_train.drop(["close_future"], axis=1),
                         y=data_train["close_future"],
                     )
 
                     # Our current situation
                     last_row = data.iloc[[-1]]
 
-                    X_test = last_row.drop(["close_future", "symbol"], axis=1)
+                    X_test = last_row.drop(["close_future"], axis=1)
                     predictions = rf.predict(X_test)
 
                     # Our model's preduicted price
@@ -183,6 +191,8 @@ class MachineLearningCrypto(Strategy):
             # Calculate the percentage change that the model predicts
             expected_price_change = self.prediction - self.last_price
             self.expected_price_change_pct = expected_price_change / self.last_price
+            
+            self.log_message(f"predicting {self.prediction} and last price was {self.last_price}, so we are expecting a price change of {self.expected_price_change_pct * 100:0.2f}%", color="green")
 
             # Our machine learning model is predicting that the asset will increase in value
             if self.expected_price_change_pct > price_change_threshold_up:
@@ -327,7 +337,7 @@ class MachineLearningCrypto(Strategy):
 
 
 if __name__ == "__main__":
-    is_live = False
+    is_live = True
 
     if is_live:
         ####
@@ -337,9 +347,14 @@ if __name__ == "__main__":
         ac = AlpacaConfig(False)
 
         broker = Alpaca(ac)
+        
+        asset = Asset(symbol="BTC", asset_type="crypto")
 
         strategy = MachineLearningCrypto(
             broker=broker,
+            parameters={
+                "asset": asset,
+            },
         )
 
         trader = Trader()

@@ -3,9 +3,11 @@ import json
 
 class AlpacaConfig:
     # Put your own Alpaca api key here:
-    API_KEY = "PK674RO5M858JZ217SPM"
+    # API_KEY = "PK674RO5M858JZ217SPM"
+    API_KEY = "PKFWJBFMSG24OVSCRVXA"
     # Put your own Alpaca secret here:
     API_SECRET = "QbxJmB0W3EFuE0AnZbc7LmqD0OJi4rijh6SqxgMd"
+    API_SECRET = "uWm6opmroTTWuZ9Yr81XRTMsOMLNv8nvBmmLO4Dt"
     # If you want to go live, you must change this
     ENDPOINT = "https://paper-api.alpaca.markets"
 
