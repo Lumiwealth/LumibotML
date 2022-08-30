@@ -32,9 +32,9 @@ class MachineLearningCrypto(Strategy):
         "asset": Asset(symbol="BTC", asset_type="crypto"),  # used to be symbol
         "compute_frequency": 15,
         "lookback_period": 200,  # Increasing this will improve accuracy but will take longer to train
-        "pct_portfolio_per_trade": 0.20,
-        "price_change_threshold_up": 0.005,
-        "price_change_threshold_down": -0.005,
+        "pct_portfolio_per_trade": 0.35,
+        "price_change_threshold_up": 0.015,
+        "price_change_threshold_down": -0.015,
         "max_pct_portfolio_long": 1,
         "max_pct_portfolio_short": 0.3,
         "take_profit_factor": 1,
@@ -271,7 +271,7 @@ if __name__ == "__main__":
         # Run the strategy
         ####
 
-        ac = AlpacaConfig(True)
+        ac = AlpacaConfig(False)
 
         broker = Alpaca(ac)
 
@@ -289,7 +289,7 @@ if __name__ == "__main__":
         ####
 
         backtesting_start = datetime(2021, 2, 1)
-        backtesting_end = datetime(2021, 2, 6)
+        backtesting_end = datetime(2021, 2, 21)
 
         # Set Asset and Quote
         asset = Asset(symbol="BTC", asset_type="crypto")
